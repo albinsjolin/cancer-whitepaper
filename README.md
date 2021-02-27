@@ -32,6 +32,10 @@ D’Agostino (2013) explains in his ted talk that he researched the effect on ke
 
 Harper (2020) presents a few interesting findings on the ketogenic diet. He explains a graph called the axis of illness, where the base cause is carbohydrates which leads to insulin resistance which leads to obesity which leads to inflammation. He notes that, just simply switching to a ketogenic diet would eliminate approximately 70% of chronic diseases. He also goes on about cancer and confirms that cancer cells are dependent on glucose for fuel, and he shows an interesting theory where his hypothesis is that glucose and insulin are very strong growth factors in the body and by lowering them, using the ketogenic diet, allows the immune system to catch cancer cells before it spreads. His latest study on ketogenic adaptation explored the effects on women with terminal breast cancer at stage four, where they supplied them with a ketogenic diet alongside chemotherapy. This resulted in extreme cancer regression after six weeks.
 
+### Hormone seasonality
+
+A recent study from Tendler et al. (2021) measures the change in hormones based on the different seasons. They concluded that, like all other animals, humans also have different winter-spring peaks in hormones for reproduction, growth, metabolism and stress adaptation. The study suggested that humans have a circannual clock that can keep track of the seasons, regulating hormones based on the seasons. The observed changes were in the hormones, cortisol, ACTH, T3, T4, TSH, estradiol, testosterone, LH, FSH, GH, IGF-1 and prolactin.
+
 ### Autophagy
 
 Autophagy was first measured by Yoshinori Ohsumi, who won the Nobel Prize in Physiology and Medicine in 2016, where the processes is the natural, regulated mechanism of the cell that removes unnecessary or dysfunctional components. Autophagy is present in different states of life, but most notably after aerobic exercise or fasting (Wikipedia 2021). Berg (2020) mentions in his talk that he recommends patients to follow a consistent aerobic exercise regime for the benefits of autophagy and health.
@@ -112,4 +116,5 @@ Title | Authors | Published
 [Cancer](https://ourworldindata.org/cancer) | Max Roser and Hannah Ritchie | 2015-06
 [Dr. Paul Saladino - 'Debunking The Carnivore Diet'](https://www.youtube.com/watch?v=CsPSJ-dXqks&ab_channel=LowCarbDownUnder) | Paul Saladino | 2020-10-08
 [Why We Age and Why We Don't Have To - David Sinclair - Talks at Google](https://www.youtube.com/watch?v=9nXop2lLDa4&ab_channel=TalksatGoogle) | David Sinclair | 2019-10-10
+[Hormone seasonality in medical records suggests circannual endocrine circuits](https://www.pnas.org/content/118/7/e2003926118) | Avichai Tendler, Alon Bar, Netta Mendelsohn-Cohen, Omer Karin, Yael Korem Kohanim, Lior Maimon, Tomer Milo, Moriya Raz, Avi Mayo, Amos Tanay, and Uri Alon | 2021-02-16
 [Autophagy](https://en.wikipedia.org/wiki/Autophagy) | Wikipedia | 2021-02-06
