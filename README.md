@@ -82,6 +82,10 @@ Groennebaek and Vissing (2017) writes in their paper on the function of permanen
 
 Longo (2016) says that most people can live without food for six months, without major preparation. This does incite the theory in that humans had to live with less food for a length of a winter. Longo also says that the current western diet, with a high amount of carbohydrates, allows damaged cells and cell-components to accumulate. Ekberg (2021) talks in his video that insulin resistance builds up and eventually becomes "chronic storage" that leads to diabetes and disease. My stance here is that the winter was used as the body's cleaning process for a build up of bad cell-components, and going back to that way of living would tick all the boxes of what has been stated above.
 
+### Ketoacidosis
+
+Ketoacidosis is a state where the body can't create any insulin and is overwhelmed by the ketones supplied by the ketogenic diet, in turn, making the blood extremely acidic. This could result in death. A common misconception about the ketogenic diet will lead to the development of ketoacidosis, this is however not the case. Only people with type 1 diabetes are at risk of ketoacidosis.
+
 ## Summary
 
 The current lifestyle and diet of modern humans are not sustainable, given the brought up sources, we could probably benefit greatly as a society if we were to follow a regime of a ketogenic diet with fasting sessions for six months of the year, probably during winter. From all I've gathered, there should not be any problems for a person to start following this technique, however, humanity's strongest trait is the ability to adapt, but that adaptation must come slowly. So if you try to follow this, do so slowly and do consult someone with knowledge if you have diabetes or an eating disorder. Otherwise, happy fasting.
