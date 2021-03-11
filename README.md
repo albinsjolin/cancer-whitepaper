@@ -82,6 +82,10 @@ Groennebaek and Vissing (2017) writes in their paper on the function of permanen
 
 Longo (2016) says that most people can live without food for six months, without major preparation. This does incite the theory in that humans had to live with less food for a length of a winter. Longo also says that the current western diet, with a high amount of carbohydrates, allows damaged cells and cell-components to accumulate. Ekberg (2021) talks in his video that insulin resistance builds up and eventually becomes "chronic storage" that leads to diabetes and disease. My stance here is that the winter was used as the body's cleaning process for a build up of bad cell-components, and going back to that way of living would tick all the boxes of what has been stated above.
 
+### Ketoacidosis
+
+A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
+
 ## Summary
 
 The current lifestyle and diet of modern humans are not sustainable, given the brought up sources, we could probably benefit greatly as a society if we were to follow a regime of a ketogenic diet with fasting sessions for six months of the year, probably during winter. From all I've gathered, there should not be any problems for a person to start following this technique, however, humanity's strongest trait is the ability to adapt, but that adaptation must come slowly. So if you try to follow this, do so slowly and do consult someone with knowledge if you have diabetes or an eating disorder. Otherwise, happy fasting.
@@ -99,6 +103,7 @@ Title | Authors | Published
 [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww&ab_channel=TEDxTalks) | Dominic D’Agostino | 2013-12-04
 [Keto and Cancer](https://www.youtube.com/watch?v=kcrdpuSvHmE&ab_channel=Keto-Mojo) | Thomas DeLauer | 2019-12-02
 [How To Count Carbs On A Keto Diet To Lose Weight Fast](https://www.youtube.com/watch?v=NW0-m0x1sZ8&ab_channel=Dr.StenEkberg) | Sten Ekberg | 2021-02-19
+[Ketosis vs Ketoacidosis (Keto Diet Dangerous?)](https://www.youtube.com/watch?v=SLFsbQNzqv0&ab_channel=Dr.StenEkberg) | Sten Ekberg | 2019-02-18
 [Comparing more and less developed countries How cancer rates vary across countries at different stages of development](https://www.wcrf.org/dietandcancer/cancer-trends/comparing-more-and-less-developed-countries) | Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A | 2018
 [Dr. Jason Fung - 'Therapeutic Fasting - Solving the Two-Compartment Problem'](https://www.youtube.com/watch?v=tIuj-oMN-Fk&ab_channel=LowCarbDownUnder) | Jason Fung | 2016-03-10
 [Beating Cancer with a Ketogenic Diet](https://www.youtube.com/watch?v=x91vpkXCmH8&ab_channel=Lakanto) | Alison Gannett | 2016-10-26
