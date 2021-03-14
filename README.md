@@ -86,6 +86,10 @@ Longo (2016) says that most people can live without food for six months, without
 
 A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
 
+### Fasting in rats and humans
+
+Many of the studies mentioned in this theory are using mice as subjects for fasting trails. In his paper, Demetrius (2005) found that mice and humans have a strong metabolic homogeneity, even in specialized cells and molecular mechanisms that regulate growth, replication, differentiation and death. Demetrius also measured the difference in basal metabolic rate per gram of body weight, they were on average seven times faster in mice compared to humans. Knowing this, we can base some assumption in the different lengths of fasting intervals to apply to humans, based on the studies on rats.
+
 ## Summary
 
 The current lifestyle and diet of modern humans are not sustainable, given the brought up sources, we could probably benefit greatly as a society if we were to follow a regime of a ketogenic diet with fasting sessions for six months of the year, probably during winter. From all I've gathered, there should not be any problems for a person to start following this technique, however, humanity's strongest trait is the ability to adapt, but that adaptation must come slowly. So if you try to follow this, do so slowly and do consult someone with knowledge if you have diabetes or an eating disorder. Otherwise, happy fasting.
@@ -102,6 +106,7 @@ Title | Authors | Published
 [Prolonged fasting reduces IGF-1/PKA to promote hematopoietic-stem-cell-based regeneration and reverse immunosuppression](https://pubmed.ncbi.nlm.nih.gov/24905167/) | Chia-Wei Cheng, Gregor B Adams, Laura Perin, Min Wei, Xiaoying Zhou, Ben S Lam, Stefano Da Sacco, Mario Mirisola, David I Quinn, Tanya B Dorff, John J Kopchick, Valter D Longo | 2014-06-05
 [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww&ab_channel=TEDxTalks) | Dominic D’Agostino | 2013-12-04
 [Keto and Cancer](https://www.youtube.com/watch?v=kcrdpuSvHmE&ab_channel=Keto-Mojo) | Thomas DeLauer | 2019-12-02
+[Of mice and men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1369270/) | Lloyd Demetrius | 2005-07-06
 [How To Count Carbs On A Keto Diet To Lose Weight Fast](https://www.youtube.com/watch?v=NW0-m0x1sZ8&ab_channel=Dr.StenEkberg) | Sten Ekberg | 2021-02-19
 [Ketosis vs Ketoacidosis (Keto Diet Dangerous?)](https://www.youtube.com/watch?v=SLFsbQNzqv0&ab_channel=Dr.StenEkberg) | Sten Ekberg | 2019-02-18
 [Comparing more and less developed countries How cancer rates vary across countries at different stages of development](https://www.wcrf.org/dietandcancer/cancer-trends/comparing-more-and-less-developed-countries) | Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A | 2018
