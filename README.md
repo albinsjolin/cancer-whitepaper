@@ -92,7 +92,7 @@ A common misconception about the ketogenic diet is that the elevated ketones pro
 
 ### Fasting in rats and humans
 
-Many of the studies mentioned in this theory are using mice as subjects for fasting trails. In his paper, Demetrius (2005) found that mice and humans have a strong metabolic homogeneity, even in specialized cells and molecular mechanisms that regulate growth, replication, differentiation and death. Demetrius also measured the difference in basal metabolic rate per gram of body weight, they were on average seven times faster in mice compared to humans. Knowing this, we can base some assumption in the different lengths of fasting intervals to apply to humans, based on the studies on rats.
+Many of the studies mentioned in this theory are using mice as subjects for fasting trials. In his paper, Demetrius (2005) found that mice and humans have a strong metabolic homogeneity, even in specialized cells and molecular mechanisms that regulate growth, replication, differentiation and death. Demetrius also measured the difference in basal metabolic rate per gram of body weight, they were on average seven times faster in mice compared to humans. Knowing this, we can base some assumption in the different lengths of fasting intervals to apply to humans, based on the studies on rats.
 
 ## Summary
 
