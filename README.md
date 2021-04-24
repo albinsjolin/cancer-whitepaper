@@ -96,6 +96,7 @@ Title | Authors | Published
 :-- | :--: | :--:
 [Fasting boosts sensitivity of human skin melanoma to cisplatin-induced cell death](https://pubmed.ncbi.nlm.nih.gov/27693581/) | Fernanda Antunes, Marco Corazzari, Gustavo Pereira, Gian Maria Fimia, Mauro Piacentini, Soraya Smaili | 2016-09-29
 [Dr. Eric Berg - 'Practical Keto'](https://www.youtube.com/watch?v=tJICCFZLgHY&ab_channel=LowCarbDownUnder) | Eric Berg | 2020-07-23
+[Plants Cause Cancer Cells to Commit Suicide](https://www.youtube.com/watch?v=t4r8Rbx-a-E&ab_channel=Dr.EricBergDC) | Eric Berg | 2021-04-15
 [Your Brain on Ketones; Alzheimer's, Memory & MCT](https://www.youtube.com/watch?v=KGFUPSdATuw&ab_channel=Dr.Boz%5BAnnetteBosworth%2CMD%5D) | Annette Bosworth | 2019-04-12
 [Intermittent energy restriction improves weight loss efficiency in obese men: the MATADOR study](https://pubmed.ncbi.nlm.nih.gov/28925405/) | N M Byrne, A Sainsbury, N A King, A P Hills, R E Wood | 2017-08-17
 [A Periodic Diet that Mimics Fasting Promotes Multi-System Regeneration, Enhanced Cognitive Performance, and Healthspan](https://pubmed.ncbi.nlm.nih.gov/26094889/) | Sebastian Brandhorst, In Young Choi, Min Wei, Chia Wei Cheng, Sargis Sedrakyan, Gerardo Navarrete, Louis Dubeau, Li Peng Yap, Ryan Park, Manlio Vinciguerra, Stefano Di Biase, Hamed Mirzaei, Mario G Mirisola, Patra Childress, Lingyun Ji, Susan Groshen, Fabio Penna, Patrizio Odetti, Laura Perin, Peter S Conti, Yuji Ikeno, Brian K Kennedy, Pinchas Cohen, Todd E Morgan, Tanya B Dorff, Valter D Longo | 2015-07-07
