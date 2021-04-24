@@ -84,7 +84,7 @@ Longo (2016) says that most people can live without food for six months, without
 
 One argument against the point I make, that the advent of agriculture is the cause of cancer of the dietary increase of carbohydrates, is the early deaths
 of ancient humans. Since cancer is cumulative, early deaths could be an explanation for its lack of appearance. However, the discovery of the Shanidar Cave
-shows four specimens of ancient Neanderthals, which were aged between 30-50. They are dated from around 65000-35000 years ago, well before the advent of agriculture. This gives some idea that ancient humans managed to reach an older age, child mortality might be a cause for the low average age (Wikipedia).
+shows four specimens of ancient Neanderthals, which were aged between 30-50. They are dated from around 65000-35000 years ago, well before the advent of agriculture. This gives some idea that ancient humans managed to reach an older age, child mortality might be a cause for the low average age (Wikipedia 2021).
 
 ### Ketoacidosis
 
