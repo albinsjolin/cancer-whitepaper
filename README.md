@@ -1,7 +1,7 @@
 # Theory of winter-fasting and the cure for cancer
 
 This repository explores the theory of winter-fasting and its correlation with cancer prevention.
-Currently viewable on [albinsjolin.github.io](https://albinsjolin.github.io/). 
+Currently viewable on [winter-fasting.com](https://winter-fasting.com/). 
 Please submit a Pull Request if you want to add to the paper, we strive for readability and simplicity.
 
 ## Abstract
