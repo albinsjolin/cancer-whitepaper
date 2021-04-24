@@ -110,6 +110,7 @@ Title | Authors | Published
 :-- | :--: | :--:
 [Fasting boosts sensitivity of human skin melanoma to cisplatin-induced cell death](https://pubmed.ncbi.nlm.nih.gov/27693581/) | Fernanda Antunes, Marco Corazzari, Gustavo Pereira, Gian Maria Fimia, Mauro Piacentini, Soraya Smaili | 2016-09-29
 [Dr. Eric Berg - 'Practical Keto'](https://www.youtube.com/watch?v=tJICCFZLgHY&ab_channel=LowCarbDownUnder) | Eric Berg | 2020-07-23
+[Plants Cause Cancer Cells to Commit Suicide](https://www.youtube.com/watch?v=t4r8Rbx-a-E&ab_channel=Dr.EricBergDC) | Eric Berg | 2021-04-15
 [Your Brain on Ketones; Alzheimer's, Memory & MCT](https://www.youtube.com/watch?v=KGFUPSdATuw&ab_channel=Dr.Boz%5BAnnetteBosworth%2CMD%5D) | Annette Bosworth | 2019-04-12
 [Intermittent energy restriction improves weight loss efficiency in obese men: the MATADOR study](https://pubmed.ncbi.nlm.nih.gov/28925405/) | N M Byrne, A Sainsbury, N A King, A P Hills, R E Wood | 2017-08-17
 [A Periodic Diet that Mimics Fasting Promotes Multi-System Regeneration, Enhanced Cognitive Performance, and Healthspan](https://pubmed.ncbi.nlm.nih.gov/26094889/) | Sebastian Brandhorst, In Young Choi, Min Wei, Chia Wei Cheng, Sargis Sedrakyan, Gerardo Navarrete, Louis Dubeau, Li Peng Yap, Ryan Park, Manlio Vinciguerra, Stefano Di Biase, Hamed Mirzaei, Mario G Mirisola, Patra Childress, Lingyun Ji, Susan Groshen, Fabio Penna, Patrizio Odetti, Laura Perin, Peter S Conti, Yuji Ikeno, Brian K Kennedy, Pinchas Cohen, Todd E Morgan, Tanya B Dorff, Valter D Longo | 2015-07-07
@@ -132,6 +133,7 @@ Title | Authors | Published
 [Fasting: Awakening the Rejuvenation from Within - Valter Longo - TEDxEchoPark](https://www.youtube.com/watch?v=dVArDzYynYc&ab_channel=TEDxTalks) | Valter Longo | 2016-12-05
 [Starving cancer away](https://www.youtube.com/watch?v=f6rSuJ2YheQ&ab_channel=TEDxTalks) | Sophia Lunt | 2016-04-15
 [Long-term administration of nicotinamide mononucleotide mitigates age-associated physiological decline in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5668137/) | Kathryn F. Mills, Shohei Yoshida, Liana R. Stein, Alessia Grozio, Shunsuke Kubota, Yo Sasaki, Philip Redpath, Marie E. Migaud, Rajendra S. Apte, Koji Uchida, Jun Yoshino and Shin-ichiro Imai | 2017-12-13
+[The role of Sulforaphane in cancer chemoprevention and health benefits: a mini-review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842175/) | Reza Bayat Mokhtari, Narges Baluch, Tina S. Homayouni, Evgeniya Morgatskaya, Sushil Kumar, Parandis Kazemi and Herman Yeger | 2017-07-13
 [Ketone supplementation decreases tumor cell viability and prolongs survival of mice with metastatic cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235292/) | AM Poff, C Ari, P Arnold, TN Seyfried and DP D’Agostino | 2014-05-14
 [Cancer](https://ourworldindata.org/cancer) | Max Roser and Hannah Ritchie | 2015-06
 [Dr. Paul Saladino - 'Debunking The Carnivore Diet'](https://www.youtube.com/watch?v=CsPSJ-dXqks&ab_channel=LowCarbDownUnder) | Paul Saladino | 2020-10-08
