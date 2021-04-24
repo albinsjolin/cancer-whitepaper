@@ -82,6 +82,10 @@ Groennebaek and Vissing (2017) writes in their paper on the function of permanen
 
 Longo (2016) says that most people can live without food for six months, without major preparation. This does incite the theory in that humans had to live with less food for a length of a winter. Longo also says that the current western diet, with a high amount of carbohydrates, allows damaged cells and cell-components to accumulate. Ekberg (2021) talks in his video that insulin resistance builds up and eventually becomes "chronic storage" that leads to diabetes and disease. My stance here is that the winter was used as the body's cleaning process for a build up of bad cell-components, and going back to that way of living would tick all the boxes of what has been stated above.
 
+One argument against the point I make, that the advent of agriculture is the cause of cancer of the dietary increase of carbohydrates, is the early deaths
+of ancient humans. Since cancer is cumulative, early deaths could be an explanation for its lack of appearance. However, the discovery of the Shanidar Cave
+shows four specimens of ancient Neanderthals, which were aged between 30-50. They are dated from around 65000-35000 years ago, well before the advent of agriculture. This gives some idea that ancient humans managed to reach an older age, child mortality might be a cause for the low average age.
+
 ### Ketoacidosis
 
 A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
