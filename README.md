@@ -133,4 +133,4 @@ Title | Authors | Published
 [Hormone seasonality in medical records suggests circannual endocrine circuits](https://www.pnas.org/content/118/7/e2003926118) | Avichai Tendler, Alon Bar, Netta Mendelsohn-Cohen, Omer Karin, Yael Korem Kohanim, Lior Maimon, Tomer Milo, Moriya Raz, Avi Mayo, Amos Tanay, and Uri Alon | 2021-02-16
 [Autophagy](https://en.wikipedia.org/wiki/Autophagy) | Wikipedia | 2021-02-06
 [Shanidar Cave](https://en.wikipedia.org/wiki/Shanidar_Cave) | Wikipedia | 2021-04-21
-[ALL ABOUT FASTING - Q&A 10 (Longterm fasting vs. intermittent fasting) | Buchinger Wilhelmi](https://www.youtube.com/watch?v=pcXbruZcT_Q) | Buchinger Wilhelmi | 2021-03-12
+[ALL ABOUT FASTING - Q&A 10 (Longterm fasting vs. intermittent fasting) - Buchinger Wilhelmi](https://www.youtube.com/watch?v=pcXbruZcT_Q) | Buchinger Wilhelmi | 2021-03-12
