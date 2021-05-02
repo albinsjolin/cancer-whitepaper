@@ -1,7 +1,7 @@
 # Theory of winter-fasting and the cure for cancer
 
 This repository explores the theory of winter-fasting and its correlation with cancer prevention.
-Currently viewable on [albinsjolin.github.io](https://albinsjolin.github.io/). 
+Currently viewable on [winter-fasting.com](https://winter-fasting.com/). 
 Please submit a Pull Request if you want to add to the paper, we strive for readability and simplicity.
 
 ## Abstract
@@ -82,9 +82,17 @@ Groennebaek and Vissing (2017) writes in their paper on the function of permanen
 
 Longo (2016) says that most people can live without food for six months, without major preparation. This does incite the theory in that humans had to live with less food for a length of a winter. Longo also says that the current western diet, with a high amount of carbohydrates, allows damaged cells and cell-components to accumulate. Ekberg (2021) talks in his video that insulin resistance builds up and eventually becomes "chronic storage" that leads to diabetes and disease. My stance here is that the winter was used as the body's cleaning process for a build up of bad cell-components, and going back to that way of living would tick all the boxes of what has been stated above.
 
+One argument against the point I make, that the advent of agriculture is the cause of cancer of the dietary increase of carbohydrates, is the early deaths
+of ancient humans. Since cancer is cumulative, early deaths could be an explanation for its lack of appearance. However, the discovery of the Shanidar Cave
+shows four specimens of ancient Neanderthals, which were aged between 30-50. They are dated from around 65000-35000 years ago, well before the advent of agriculture. This gives some idea that ancient humans managed to reach an older age, child mortality might be a cause for the low average age (Wikipedia 2021).
+
 ### Ketoacidosis
 
 A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
+
+### Fasting in rats and humans
+
+Many of the studies mentioned in this theory are using mice as subjects for fasting trials. In his paper, Demetrius (2005) found that mice and humans have a strong metabolic homogeneity, even in specialized cells and molecular mechanisms that regulate growth, replication, differentiation and death. Demetrius also measured the difference in basal metabolic rate per gram of body weight, they were on average seven times faster in mice compared to humans. Knowing this, we can base some assumption in the different lengths of fasting intervals to apply to humans, based on the studies on rats.
 
 ## Summary
 
@@ -102,6 +110,7 @@ Title | Authors | Published
 [Prolonged fasting reduces IGF-1/PKA to promote hematopoietic-stem-cell-based regeneration and reverse immunosuppression](https://pubmed.ncbi.nlm.nih.gov/24905167/) | Chia-Wei Cheng, Gregor B Adams, Laura Perin, Min Wei, Xiaoying Zhou, Ben S Lam, Stefano Da Sacco, Mario Mirisola, David I Quinn, Tanya B Dorff, John J Kopchick, Valter D Longo | 2014-06-05
 [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww&ab_channel=TEDxTalks) | Dominic D’Agostino | 2013-12-04
 [Keto and Cancer](https://www.youtube.com/watch?v=kcrdpuSvHmE&ab_channel=Keto-Mojo) | Thomas DeLauer | 2019-12-02
+[Of mice and men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1369270/) | Lloyd Demetrius | 2005-07-06
 [How To Count Carbs On A Keto Diet To Lose Weight Fast](https://www.youtube.com/watch?v=NW0-m0x1sZ8&ab_channel=Dr.StenEkberg) | Sten Ekberg | 2021-02-19
 [Ketosis vs Ketoacidosis (Keto Diet Dangerous?)](https://www.youtube.com/watch?v=SLFsbQNzqv0&ab_channel=Dr.StenEkberg) | Sten Ekberg | 2019-02-18
 [Comparing more and less developed countries How cancer rates vary across countries at different stages of development](https://www.wcrf.org/dietandcancer/cancer-trends/comparing-more-and-less-developed-countries) | Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA, Jemal A | 2018
@@ -123,4 +132,5 @@ Title | Authors | Published
 [Why We Age and Why We Don't Have To - David Sinclair - Talks at Google](https://www.youtube.com/watch?v=9nXop2lLDa4&ab_channel=TalksatGoogle) | David Sinclair | 2019-10-10
 [Hormone seasonality in medical records suggests circannual endocrine circuits](https://www.pnas.org/content/118/7/e2003926118) | Avichai Tendler, Alon Bar, Netta Mendelsohn-Cohen, Omer Karin, Yael Korem Kohanim, Lior Maimon, Tomer Milo, Moriya Raz, Avi Mayo, Amos Tanay, and Uri Alon | 2021-02-16
 [Autophagy](https://en.wikipedia.org/wiki/Autophagy) | Wikipedia | 2021-02-06
+[Shanidar Cave](https://en.wikipedia.org/wiki/Shanidar_Cave) | Wikipedia | 2021-04-21
 [ALL ABOUT FASTING - Q&A 10 (Longterm fasting vs. intermittent fasting) | Buchinger Wilhelmi](https://www.youtube.com/watch?v=pcXbruZcT_Q) | Buchinger Wilhelmi | 2021-03-12
