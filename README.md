@@ -36,9 +36,11 @@ Harper (2020) presents a few interesting findings on the ketogenic diet. He expl
 
 A recent study from Tendler et al. (2021) measures the change in hormones based on the different seasons. They concluded that, like all other animals, humans also have different winter-spring peaks in hormones for reproduction, growth, metabolism and stress adaptation. The study suggested that humans have a circannual clock that can keep track of the seasons, regulating hormones based on the seasons. The observed changes were in the hormones, cortisol, ACTH, T3, T4, TSH, estradiol, testosterone, LH, FSH, GH, IGF-1 and prolactin.
 
-### Spring allergies
+### Fasting during spring
 
-Dr Françoise Wilhelmi de Toledo mentions in an interview with Buchinger Wilhelmi fasting institue, about the effect fasting has on spring allergies. She uses fasting to resolve an allergy to birch pollen during april (Wilhelmi 2021).
+Dr Françoise Wilhelmi de Toledo mentions in an interview with Buchinger Wilhelmi fasting institute, about the effect that fasting has on spring allergies. She uses fasting to resolve an allergy to birch pollen during April (Wilhelmi 2021).
+
+There is also fasting incorporated in the major religions. Both Christianity and Islam have their major fasts usually between March and May. Judaism uses fasting more spread out throughout the year (Wikipedia 2021).
 
 ### Autophagy
 
@@ -136,5 +138,6 @@ Title | Authors | Published
 [Why We Age and Why We Don't Have To - David Sinclair - Talks at Google](https://www.youtube.com/watch?v=9nXop2lLDa4&ab_channel=TalksatGoogle) | David Sinclair | 2019-10-10
 [Hormone seasonality in medical records suggests circannual endocrine circuits](https://www.pnas.org/content/118/7/e2003926118) | Avichai Tendler, Alon Bar, Netta Mendelsohn-Cohen, Omer Karin, Yael Korem Kohanim, Lior Maimon, Tomer Milo, Moriya Raz, Avi Mayo, Amos Tanay, and Uri Alon | 2021-02-16
 [Autophagy](https://en.wikipedia.org/wiki/Autophagy) | Wikipedia | 2021-02-06
+[Fasting](https://en.wikipedia.org/wiki/Fasting#Christianity) | Wikipedia | 2021-05-13
 [Shanidar Cave](https://en.wikipedia.org/wiki/Shanidar_Cave) | Wikipedia | 2021-04-21
 [ALL ABOUT FASTING - Q&A 10 (Longterm fasting vs. intermittent fasting) - Buchinger Wilhelmi](https://www.youtube.com/watch?v=pcXbruZcT_Q) | Buchinger Wilhelmi | 2021-03-12
