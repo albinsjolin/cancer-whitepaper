@@ -36,6 +36,10 @@ Harper (2020) presents a few interesting findings on the ketogenic diet. He expl
 
 A recent study from Tendler et al. (2021) measures the change in hormones based on the different seasons. They concluded that, like all other animals, humans also have different winter-spring peaks in hormones for reproduction, growth, metabolism and stress adaptation. The study suggested that humans have a circannual clock that can keep track of the seasons, regulating hormones based on the seasons. The observed changes were in the hormones, cortisol, ACTH, T3, T4, TSH, estradiol, testosterone, LH, FSH, GH, IGF-1 and prolactin.
 
+### Spring allergies
+
+Dr Françoise Wilhelmi de Toledo mentions in an interview with Buchinger Wilhelmi fasting institue, about the effect fasting has on spring allergies. She uses fasting to resolve an allergy to birch pollen during april (Wilhelmi 2021).
+
 ### Autophagy
 
 Autophagy was first measured by Yoshinori Ohsumi, who won the Nobel Prize in Physiology and Medicine in 2016, where the processes is the natural, regulated mechanism of the cell that removes unnecessary or dysfunctional components. Autophagy is present in different states of life, but most notably after aerobic exercise or fasting (Wikipedia 2021). Berg (2020) mentions in his talk that he recommends patients to follow a consistent aerobic exercise regime for the benefits of autophagy and health.
@@ -133,3 +137,4 @@ Title | Authors | Published
 [Hormone seasonality in medical records suggests circannual endocrine circuits](https://www.pnas.org/content/118/7/e2003926118) | Avichai Tendler, Alon Bar, Netta Mendelsohn-Cohen, Omer Karin, Yael Korem Kohanim, Lior Maimon, Tomer Milo, Moriya Raz, Avi Mayo, Amos Tanay, and Uri Alon | 2021-02-16
 [Autophagy](https://en.wikipedia.org/wiki/Autophagy) | Wikipedia | 2021-02-06
 [Shanidar Cave](https://en.wikipedia.org/wiki/Shanidar_Cave) | Wikipedia | 2021-04-21
+[ALL ABOUT FASTING - Q&A 10 (Longterm fasting vs. intermittent fasting) - Buchinger Wilhelmi](https://www.youtube.com/watch?v=pcXbruZcT_Q) | Buchinger Wilhelmi | 2021-03-12
