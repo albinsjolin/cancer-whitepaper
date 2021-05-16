@@ -54,9 +54,15 @@ Longo (2016) speaks about fasting and how it affects aging and diseases. He did 
 
 Sinclair (2019) speaks of his research in anti-aging at Google. His techniques goes around the topic of epigenome manipulation and the prevention of aging, this will in turn prevent every disease that could be age related, including risk for developing cancer. He later mentions that a natural way to manipulate your epigenome is to eat less frequently, and he is currently following an intermittent fasting regime. He also answers a question from the audience on insulin and aging where he concludes that aging is a direct correlator with high insulin and blood-glucose levels. Also there is an important epigenome pathway-chemical called nicotinamide mononucleotide (NMN) which is correlated with nerve health and epigenome repairing. Mills et al. (2017) writes in a paper that NMN occurs naturally in different types of food such as: edamame, broccoli, cucumber seed, cucumber peel, cabbage, avocado, tomato, mushroom, raw beef and shrimp. All of which are low in carbohydrates and are staples in a ketogenic diet.
 
+Mokhtari et al. (2017)
+
 ## The case for melanoma and glioblastoma
 
 According to Grabacka, Plonka and Reiss' (2020) paper, ketones do not directly inhibit the proliferation of melanoma and glioblastoma cells, but they found that a high lean muscle mass index was an indication of melanoma prevention. However Antunes et al. (2016) found that fasting increases the sensitivity of human melanoma cells, to cisplatin, which is a type of chemotherapy.
+
+Melanoma and inflamation
+
+Mokhtari et al. (2017) sulfurafame reduces inflamation
 
 ## Discussion
 
@@ -110,7 +116,6 @@ Title | Authors | Published
 :-- | :--: | :--:
 [Fasting boosts sensitivity of human skin melanoma to cisplatin-induced cell death](https://pubmed.ncbi.nlm.nih.gov/27693581/) | Fernanda Antunes, Marco Corazzari, Gustavo Pereira, Gian Maria Fimia, Mauro Piacentini, Soraya Smaili | 2016-09-29
 [Dr. Eric Berg - 'Practical Keto'](https://www.youtube.com/watch?v=tJICCFZLgHY&ab_channel=LowCarbDownUnder) | Eric Berg | 2020-07-23
-[Plants Cause Cancer Cells to Commit Suicide](https://www.youtube.com/watch?v=t4r8Rbx-a-E&ab_channel=Dr.EricBergDC) | Eric Berg | 2021-04-15
 [Your Brain on Ketones; Alzheimer's, Memory & MCT](https://www.youtube.com/watch?v=KGFUPSdATuw&ab_channel=Dr.Boz%5BAnnetteBosworth%2CMD%5D) | Annette Bosworth | 2019-04-12
 [Intermittent energy restriction improves weight loss efficiency in obese men: the MATADOR study](https://pubmed.ncbi.nlm.nih.gov/28925405/) | N M Byrne, A Sainsbury, N A King, A P Hills, R E Wood | 2017-08-17
 [A Periodic Diet that Mimics Fasting Promotes Multi-System Regeneration, Enhanced Cognitive Performance, and Healthspan](https://pubmed.ncbi.nlm.nih.gov/26094889/) | Sebastian Brandhorst, In Young Choi, Min Wei, Chia Wei Cheng, Sargis Sedrakyan, Gerardo Navarrete, Louis Dubeau, Li Peng Yap, Ryan Park, Manlio Vinciguerra, Stefano Di Biase, Hamed Mirzaei, Mario G Mirisola, Patra Childress, Lingyun Ji, Susan Groshen, Fabio Penna, Patrizio Odetti, Laura Perin, Peter S Conti, Yuji Ikeno, Brian K Kennedy, Pinchas Cohen, Todd E Morgan, Tanya B Dorff, Valter D Longo | 2015-07-07
