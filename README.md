@@ -141,3 +141,4 @@ Title | Authors | Published
 [Fasting](https://en.wikipedia.org/wiki/Fasting#Christianity) | Wikipedia | 2021-05-13
 [Shanidar Cave](https://en.wikipedia.org/wiki/Shanidar_Cave) | Wikipedia | 2021-04-21
 [ALL ABOUT FASTING - Q&A 10 (Longterm fasting vs. intermittent fasting) - Buchinger Wilhelmi](https://www.youtube.com/watch?v=pcXbruZcT_Q) | Buchinger Wilhelmi | 2021-03-12
+[Melanoma mutation likes fat for fuel](https://www.sciencedaily.com/releases/2017/01/170112141359.htm) | Siyuan Xia, Ruiting Lin, Lingtao Jin, Liang Zhao, Hee-Bum Kang, Yaozhu Pan, Shuangping Liu, Guoqing Qian, Zhiyu Qian, Evmorfia Konstantakou, Baotong Zhang, Jin-Tang Dong, Young Rock Chung, Omar Abdel-Wahab, Taha Merghoub, Lu Zhou, Ragini R. Kudchadkar, David H. Lawson, Hanna J. Khoury, Fadlo R. Khuri, Lawrence H. Boise, Sagar Lonial, Benjamin H. Lee, Brian P. Pollack, Jack L. Arbiser, Jun Fan, Qun-Ying Lei and Jing Chen | 2017-01-12
