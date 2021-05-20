@@ -32,6 +32,8 @@ D’Agostino (2013) explains in his ted talk that he researched the effect on ke
 
 Harper (2020) presents a few interesting findings on the ketogenic diet. He explains a graph called the axis of illness, where the base cause is carbohydrates which leads to insulin resistance which leads to obesity which leads to inflammation. He notes that, just simply switching to a ketogenic diet would eliminate approximately 70% of chronic diseases. He also goes on about cancer and confirms that cancer cells are dependent on glucose for fuel, and he shows an interesting theory where his hypothesis is that glucose and insulin are very strong growth factors in the body and by lowering them, using the ketogenic diet, allows the immune system to catch cancer cells before it spreads. His latest study on ketogenic adaptation explored the effects on women with terminal breast cancer at stage four, where they supplied them with a ketogenic diet alongside chemotherapy. This resulted in extreme cancer regression after six weeks.
 
+Li (2014) says that all cancers are dependent on mutated angiogenisis (blood supply) for growth. He also says that all cancers can be removed if we can fix the angiogenisis problem. Woolf et al. (2015) does some fat shit on rats and found that, once again, the fucker was correct with ketosis and angiogenisis fix.
+
 ### Hormone seasonality
 
 A recent study from Tendler et al. (2021) measures the change in hormones based on the different seasons. They concluded that, like all other animals, humans also have different winter-spring peaks in hormones for reproduction, growth, metabolism and stress adaptation. The study suggested that humans have a circannual clock that can keep track of the seasons, regulating hormones based on the seasons. The observed changes were in the hormones, cortisol, ACTH, T3, T4, TSH, estradiol, testosterone, LH, FSH, GH, IGF-1 and prolactin.
@@ -144,3 +146,4 @@ Title | Authors | Published
 [Fasting](https://en.wikipedia.org/wiki/Fasting#Christianity) | Wikipedia | 2021-05-13
 [Shanidar Cave](https://en.wikipedia.org/wiki/Shanidar_Cave) | Wikipedia | 2021-04-21
 [ALL ABOUT FASTING - Q&A 10 (Longterm fasting vs. intermittent fasting) - Buchinger Wilhelmi](https://www.youtube.com/watch?v=pcXbruZcT_Q) | Buchinger Wilhelmi | 2021-03-12
+[The Ketogenic Diet Alters the Hypoxic Response and Affects Expression of Proteins Associated with Angiogenesis, Invasive Potential and Vascular Permeability in a Mouse Glioma Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4470583/) | Eric C. Woolf, Kara L. Curley, Qingwei Liu, Gregory H. Turner, Julie A. Charlton, Mark C. Preul and Adrienne C. Scheck | 2015-06-17
