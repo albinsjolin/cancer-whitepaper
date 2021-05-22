@@ -41,7 +41,6 @@ Li (2014) explains that all cancers are dependent on mutated angiogenesis for gr
 
 "The mechanisms underlying the anti-tumor benefits of the ketogenic diet, caloric restriction (and intermittent fasting) and other potential metabolic therapies have not yet been fully elucidated; however, preclinical data strongly suggests that metabolic alteration may be a highly effective therapy and may in fact enhance the current standard of care for malignant gliomas."
 
-
 ### Hormone seasonality
 
 A recent study from Tendler et al. (2021) measures the change in hormones based on the different seasons. They concluded that, like all other animals, humans also have different winter-spring peaks in hormones for reproduction, growth, metabolism and stress adaptation. The study suggested that humans have a circannual clock that can keep track of the seasons, regulating hormones based on the seasons. The observed changes were in the hormones, cortisol, ACTH, T3, T4, TSH, estradiol, testosterone, LH, FSH, GH, IGF-1 and prolactin.
