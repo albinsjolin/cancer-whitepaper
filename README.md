@@ -4,6 +4,11 @@ This repository explores the theory of winter-fasting and its correlation with c
 Currently viewable on [winter-fasting.com](https://winter-fasting.com/). 
 Please submit a Pull Request if you want to add to the paper, we strive for readability and simplicity.
 
+This paper has been reviewed by:
+- Kjell Asplund, professor in Medicine at Umeå University
+- Charlotte Höybye, professor in Neuroendocrinology at Karolinska Institute
+- Miriam Kalamian, MS in Human Nutrition, specializing in therapeutic ketogenic diets for cancer
+
 ## Abstract
 
 The theory is that the majority of people on earth, especially those of descendants from a cold environment, are getting cancer and diseases because they are missing a long term fasting and ketogenic diet during the winter months, which was prevalent in their ancestor's lives. The purpose of this article is to explore the evidence of fasting and the ketogenic diet and it's correlation to cancer. As well as exploring the advent of agriculture as the cause of cancer. The arguments are analysed from a logical standpoint using the first principles approach.
