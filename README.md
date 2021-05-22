@@ -82,7 +82,7 @@ As the basis of my theory is that you should enter a ketogenic diet during winte
 
 ### The case for melanoma and glioblastoma
 
-According to Grabacka, Plonka and Reiss' (2020) paper, ketones do not directly inhibit the proliferation of melanoma and glioblastoma cells, but they found that a high lean muscle mass index was an indication of melanoma prevention. They also mention how melanoma cells take advantage of local inflammation for growth. However Antunes et al. (2016) found that fasting increases the sensitivity of human melanoma cells, to cisplatin, which is a type of chemotherapy. This could be attributed to the reduction of inflammation in the body during fasting. Mokhtari et al. (2017) also writes that sulforaphane reduces inflamation, which can possibly assist in melanoma prevention. Woolf et al. (2015) also noted a reduction in inflammation signal pathways in glioma tumors, in rats that were fed a ketogenic diet.
+According to Grabacka, Plonka and Reiss' (2020) paper, ketones do not directly inhibit the proliferation of melanoma and glioblastoma cells, but they found that a high lean muscle mass index was an indication of melanoma prevention. They also mention how melanoma cells take advantage of local inflammation for growth. However Antunes et al. (2016) found that fasting increases the sensitivity of human melanoma cells, to cisplatin, which is a type of chemotherapy. This could be attributed to the reduction of inflammation in the body during fasting. Mokhtari et al. (2017) also writes that sulforaphane reduces inflamation, which can possibly assist in melanoma prevention. Woolf et al. (2015) also noted a reduction in inflammation signaling pathways in glioma tumors, in rats that were fed a ketogenic diet.
 
 ### Other diseases
 
