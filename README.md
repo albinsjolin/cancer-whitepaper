@@ -4,7 +4,7 @@ This repository explores the theory of winter-fasting and its correlation with c
 Currently viewable on [winter-fasting.com](https://winter-fasting.com/). 
 Please submit a Pull Request if you want to add to the paper, we strive for readability and simplicity.
 
-This paper has been review by:
+This paper has been reviewed by:
 - Kjell Asplund, professor in Medicine at Umeå University
 - Charlotte Höybye, professor in Neuroendocrinology at Karolinska Institute
 - Miriam Kalamian, MS in Human Nutrition, specializing in therapeutic ketogenic diets for cancer
