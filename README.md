@@ -55,6 +55,8 @@ There is also fasting incorporated in the major religions. Both Christianity and
 
 Autophagy was first measured by Yoshinori Ohsumi, who won the Nobel Prize in Physiology and Medicine in 2016, where the processes is the natural, regulated mechanism of the cell that removes unnecessary or dysfunctional components. Autophagy is present in different states of life, but most notably after aerobic exercise or fasting (Wikipedia 2021). Berg (2020) mentions in his talk that he recommends patients to follow a consistent aerobic exercise regime for the benefits of autophagy and health. According to Tramazzo (2019) autophagy will trigger about 10 hours faster if the person is already in nutritional ketosis/fat adapted, amplifying its effects.
 
+One common misconception is that one has to be in a fasted state for autophagy to start, however, Chung and Chung (2019) explored the changes of the primary autophagy-related genes using caloric restriction. They found that autophagy-related genes in humans were significantly increased in response to a reduction in calories by 30 percent.
+
 ### Cancer and fasting
 
 In his presentation about therapeutic fasting, Fung (2016) goes into detail about the benefits of fasting and that the modern human is built to withstand repeated episodes where there is no food. He goes over that in a fasted state, the body increases it's energy expenditure and cell oxygen availability over four days of fasting, peaking at day three. He explains fasting as the way the body cleans out all the junk that accumilates.
@@ -133,6 +135,7 @@ Title | Authors | Published
 [Intermittent energy restriction improves weight loss efficiency in obese men: the MATADOR study](https://pubmed.ncbi.nlm.nih.gov/28925405/) | N M Byrne, A Sainsbury, N A King, A P Hills, R E Wood | 2017-08-17
 [A Periodic Diet that Mimics Fasting Promotes Multi-System Regeneration, Enhanced Cognitive Performance, and Healthspan](https://pubmed.ncbi.nlm.nih.gov/26094889/) | Sebastian Brandhorst, In Young Choi, Min Wei, Chia Wei Cheng, Sargis Sedrakyan, Gerardo Navarrete, Louis Dubeau, Li Peng Yap, Ryan Park, Manlio Vinciguerra, Stefano Di Biase, Hamed Mirzaei, Mario G Mirisola, Patra Childress, Lingyun Ji, Susan Groshen, Fabio Penna, Patrizio Odetti, Laura Perin, Peter S Conti, Yuji Ikeno, Brian K Kennedy, Pinchas Cohen, Todd E Morgan, Tanya B Dorff, Valter D Longo | 2015-07-07
 [Prolonged fasting reduces IGF-1/PKA to promote hematopoietic-stem-cell-based regeneration and reverse immunosuppression](https://pubmed.ncbi.nlm.nih.gov/24905167/) | Chia-Wei Cheng, Gregor B Adams, Laura Perin, Min Wei, Xiaoying Zhou, Ben S Lam, Stefano Da Sacco, Mario Mirisola, David I Quinn, Tanya B Dorff, John J Kopchick, Valter D Longo | 2014-06-05
+[The Effects of Calorie Restriction on Autophagy: Role on Aging Intervention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6950580/) | Ki Wung Chung and Hae Young Chung | 2019-12-11
 [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww&ab_channel=TEDxTalks) | Dominic D’Agostino | 2013-12-04
 [Keto and Cancer](https://www.youtube.com/watch?v=kcrdpuSvHmE&ab_channel=Keto-Mojo) | Thomas DeLauer | 2019-12-02
 [Of mice and men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1369270/) | Lloyd Demetrius | 2005-07-06
