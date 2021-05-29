@@ -69,7 +69,7 @@ Li (2014) has a list of anti-angiogenic foods. Some of them are: green tea, stra
 
 ### Cancer and caloric restriction
 
-Caloric restriction has long been used as a measure for people to lose weight, but there are also appliances against disease. O’Flanagan et al. (2017) explored the effects that calorie restriction has on cancer patients. Their specification was to lower the patients' caloric intake by 30 percent, without the incurrence of malnutrition. Their data suggest that caloric restriction acts against inflammation, angiogenesis, insulin and IGF-1. They also mention that a 30 percent reduction in calories in mice, displayed an overall 75.5 percent reduction in tumor incidence.
+Caloric restriction has long been used as a measure for people to lose weight, but there are also appliances against disease. O’Flanagan et al. (2017) explored the effects that calorie restriction has on cancer patients. Their specification was to lower the patients' caloric intake by 30 percent, without the incurrence of malnutrition. Their data suggest that caloric restriction acts against inflammation, angiogenesis, insulin and IGF-1. They also mention that a 30 percent reduction in calories in mice, displayed an overall 75.5 percent reduction in tumor incidence. They speculated that caloric restriction combined with a ketogenic diet, would probably increase that number.
 
 ## Discussion
 
