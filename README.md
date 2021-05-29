@@ -11,7 +11,7 @@ This paper has been reviewed by:
 
 ## Abstract
 
-The theory is that the majority of people on earth, especially those of descendants from a cold environment, are getting cancer and diseases because they are missing a long term fasting and ketogenic diet during the winter months, which was prevalent in their ancestor's lives. The purpose of this article is to explore the evidence of fasting and the ketogenic diet and it's correlation to cancer. As well as exploring the advent of agriculture as the cause of cancer. The arguments are analysed from a logical standpoint using the first principles approach.
+The theory is that the majority of people on earth, especially those of descendants from a cold environment, are getting cancer and diseases because they are missing a long term period of fasting, caloric restriction and a ketogenic diet during winter and spring, which was prevalent in their ancestors' lives. The purpose of this paper is to explore the evidence of fasting, caloric restriction and the ketogenic diet and it's correlation to cancer. As well as exploring the advent of agriculture as the cause of cancer. The arguments are analyzed from a logical standpoint using the first principles approach.
 
 ## Credentials
 
@@ -21,7 +21,7 @@ I graduated from Uppsala University in 2018 where I majored in Information Syste
 
 ### Statistics
 
-Cancer is the second highest cause of deaths, where cardiovascular diseases take first place, according to data collected from 2017 (Roser and Ritchie 2015). The techniques used in this theory would probably eliminate cardiovascular disease but I'm only focused on cancer for the topic of this article. My speculation is that cancer started to significantly develop alongside the constant consumption of carbohydrates, probably caused by agriculture and the availability of carbohydrates. We can base some assumption that the current society is suffering from cancer, however there is little to no evidence that pre-agriculture society was suffering from cancer. Johnson (2010) found the oldest remains of cancer to date back to 2700 years ago. The specimen was found to have a form of prostate cancer, and according to Kaiser et al. (2020), prostate cancer has a direct association with insulin resistance. They found that a low carbohydrate/ketogenic diet should be favored for their superior impact on metabolic parameters. This does support the theory based on that the advent of agriculture started getting traction around 7000 to 10000 years ago, where carbohydrate consumption rose, alongside with insulin resistance. Meaning that no statistically significant evidence has been found for cancer deaths, pre-agriculture.
+Cancer is the second highest cause of deaths, where cardiovascular diseases take first place, according to data collected from 2017 (Roser and Ritchie 2015). The techniques used in this theory would probably eliminate cardiovascular disease but I'm only focused on cancer for the topic of this paper. My speculation is that cancer started to significantly develop alongside the constant consumption of carbohydrates, probably caused by agriculture and the availability of carbohydrates. We can base some assumption that the current society is suffering from cancer, however there is little to no evidence that pre-agriculture society was suffering from cancer. Johnson (2010) found the oldest remains of cancer to date back to 2700 years ago. The specimen was found to have a form of prostate cancer, and according to Kaiser et al. (2020), prostate cancer has a direct association with insulin resistance. They found that a low carbohydrate/ketogenic diet should be favored for their superior impact on metabolic parameters. This does support the theory based on that the advent of agriculture started getting traction around 7000 to 10000 years ago, where carbohydrate consumption rose, alongside with insulin resistance. Meaning that no statistically significant evidence has been found for cancer deaths, pre-agriculture.
 
 Li (2014) shows some statistics in his Ted talk, where he explains that 40% of women in their 40s and 50s actually have microscopic breast cancers, 50% of men in their 50s and 60s have microscopic prostate cancers, and viritually 100% of us when we reach our 70s will have microscopic thyroid cancers. These will however not develop further because they lack a angiogenisis (blood supply).
 
@@ -53,7 +53,7 @@ There is also fasting incorporated in the major religions. Both Christianity and
 
 ### Autophagy
 
-Autophagy was first measured by Yoshinori Ohsumi, who won the Nobel Prize in Physiology and Medicine in 2016, where the processes is the natural, regulated mechanism of the cell that removes unnecessary or dysfunctional components. Autophagy is present in different states of life, but most notably after aerobic exercise or fasting (Wikipedia 2021). Berg (2020) mentions in his talk that he recommends patients to follow a consistent aerobic exercise regime for the benefits of autophagy and health.
+Autophagy was first measured by Yoshinori Ohsumi, who won the Nobel Prize in Physiology and Medicine in 2016, where the processes is the natural, regulated mechanism of the cell that removes unnecessary or dysfunctional components. Autophagy is present in different states of life, but most notably after aerobic exercise or fasting (Wikipedia 2021). Berg (2020) mentions in his talk that he recommends patients to follow a consistent aerobic exercise regime for the benefits of autophagy and health. According to Tramazzo (2019) autophagy will trigger about 10 hours faster if the person is already in nutritional ketosis/fat adapted, amplifying its effects.
 
 ### Cancer and fasting
 
@@ -66,6 +66,10 @@ Sinclair (2019) speaks of his research in anti-aging at Google. His techniques g
 Mokhtari et al. (2017) found that some plant foods contain sulforaphane, a compound that is able to specifically target cancer cells to induce apoptosis (programmed cell death). The plant foods include: broccoli sprouts, broccoli, cauliflower, kale, brussels sprouts, cabbage and bok choy. All of which are low in carbohydrates.
 
 Li (2014) has a list of anti-angiogenic foods. Some of them are: green tea, strawberries, blackberries, raspberries, oranges, bok choy, kale, ginseng, maitake mushroom, licorice, turmeric, artichokes, lavender, pumpkin, tuna, parsley, garlic, tomato, olive oil and dark chocolate. All of which are low in carbohydrates.
+
+### Cancer and caloric restriction
+
+Caloric restriction has long been used as a measure for people to lose weight, but there are also appliances against disease. O’Flanagan et al. (2017) explored the effects that calorie restriction has on cancer patients. Their specification was to lower the patients' caloric intake by 30 percent, without the incurrence of malnutrition. Their data suggest that caloric restriction acts against inflammation, angiogenesis, insulin and IGF-1. They also mention that a 30 percent reduction in calories in mice, displayed an overall 75.5 percent reduction in tumor incidence. They speculated that caloric restriction combined with a ketogenic diet, would probably increase that number.
 
 ## Discussion
 
@@ -81,7 +85,7 @@ As the basis of my theory is that you should enter a ketogenic diet during winte
 
 ### The case for melanoma and glioblastoma
 
-According to Grabacka, Plonka and Reiss' (2020) paper, ketones do not directly inhibit the proliferation of melanoma and glioblastoma cells, but they found that a high lean muscle mass index was an indication of melanoma prevention. They also mention how melanoma cells take advantage of local inflammation for growth. However Antunes et al. (2016) found that fasting increases the sensitivity of human melanoma cells, to cisplatin, which is a type of chemotherapy. This could be attributed to the reduction of inflammation in the body during fasting. Mokhtari et al. (2017) also writes that sulforaphane reduces inflamation, which can possibly assist in melanoma prevention. Woolf et al. (2015) also noted a reduction in inflammation signaling pathways in glioma tumors, in rats that were fed a ketogenic diet.
+According to Grabacka, Plonka and Reiss' (2020) paper, ketones do not directly inhibit the proliferation of melanoma and glioblastoma cells, but they found that a high lean muscle mass index was an indication of melanoma prevention. They also mention how melanoma cells take advantage of local inflammation for growth. However Antunes et al. (2016) found that fasting increases the sensitivity of human melanoma cells, to cisplatin, which is a type of chemotherapy. This could be attributed to the reduction of inflammation in the body during fasting. Mokhtari et al. (2017) also writes that sulforaphane reduces inflamation, which can possibly assist in melanoma prevention. Woolf et al. (2015) also noted a reduction in inflammation signaling pathways in glioma tumors, in rats that were fed a ketogenic diet. O’Flanagan et al. (2017) found that caloric restriction reduces systemic inflammation as well.
 
 ### Other diseases
 
@@ -119,7 +123,9 @@ According to Xia et al. (2017), there exists a mutation that equips the cancer w
 
 ## Summary
 
-The current lifestyle and diet of modern humans are not sustainable, given the brought up sources, we could probably benefit greatly as a society if we were to follow a regime of a ketogenic diet with fasting sessions for six months of the year, probably during winter. From all I've gathered, there should not be any problems for a person to start following this technique, however, humanity's strongest trait is the ability to adapt, but that adaptation must come slowly. So if you try to follow this, do so slowly and do consult someone with knowledge if you have diabetes or an eating disorder. Otherwise, happy fasting.
+The current lifestyle and diet of modern humans are not sustainable, given the brought up sources, we could probably benefit greatly as a society if we were to follow a regime of a ketogenic diet with caloric restriction and fasting sessions, for six months of the year, probably during winter and spring. The key part about the ketogenic diet, fasting and caloric restriction is that they all work in conjunction and amplifying the benefits.
+
+From all I've gathered, there should not be any problems for a person to start following this technique, however, humanity's strongest trait is the ability to adapt, but that adaptation must come slowly. So if you try to follow this, do so slowly and do consult someone with knowledge if you have diabetes or an eating disorder. Otherwise, happy fasting.
 
 ## Sources
 
@@ -150,11 +156,13 @@ Title | Authors | Published
 [Starving cancer away](https://www.youtube.com/watch?v=f6rSuJ2YheQ&ab_channel=TEDxTalks) | Sophia Lunt | 2016-04-15
 [Long-term administration of nicotinamide mononucleotide mitigates age-associated physiological decline in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5668137/) | Kathryn F. Mills, Shohei Yoshida, Liana R. Stein, Alessia Grozio, Shunsuke Kubota, Yo Sasaki, Philip Redpath, Marie E. Migaud, Rajendra S. Apte, Koji Uchida, Jun Yoshino and Shin-ichiro Imai | 2017-12-13
 [The role of Sulforaphane in cancer chemoprevention and health benefits: a mini-review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842175/) | Reza Bayat Mokhtari, Narges Baluch, Tina S. Homayouni, Evgeniya Morgatskaya, Sushil Kumar, Parandis Kazemi and Herman Yeger | 2017-07-13
+[When less may be more: calorie restriction and response to cancer therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5442682/) | Ciara H. O’Flanagan, Laura A. Smith, Shannon B. McDonell and Stephen D. Hursting | 2017-05-24
 [Ketone supplementation decreases tumor cell viability and prolongs survival of mice with metastatic cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235292/) | AM Poff, C Ari, P Arnold, TN Seyfried and DP D’Agostino | 2014-05-14
 [Cancer](https://ourworldindata.org/cancer) | Max Roser and Hannah Ritchie | 2015-06
 [Dr. Paul Saladino - 'Debunking The Carnivore Diet'](https://www.youtube.com/watch?v=CsPSJ-dXqks&ab_channel=LowCarbDownUnder) | Paul Saladino | 2020-10-08
 [Why We Age and Why We Don't Have To - David Sinclair - Talks at Google](https://www.youtube.com/watch?v=9nXop2lLDa4&ab_channel=TalksatGoogle) | David Sinclair | 2019-10-10
 [Hormone seasonality in medical records suggests circannual endocrine circuits](https://www.pnas.org/content/118/7/e2003926118) | Avichai Tendler, Alon Bar, Netta Mendelsohn-Cohen, Omer Karin, Yael Korem Kohanim, Lior Maimon, Tomer Milo, Moriya Raz, Avi Mayo, Amos Tanay, and Uri Alon | 2021-02-16
+[Fasting & Autophagy (Part 2) — How to Trigger & Maximize Autophagy](https://josephtramazzo.medium.com/autophagy-fasting-part-2-how-to-trigger-maximize-autophagy-78a137b787b7) | Joseph Tramazzo | 2019-07-25
 [Autophagy](https://en.wikipedia.org/wiki/Autophagy) | Wikipedia | 2021-02-06
 [Fasting](https://en.wikipedia.org/wiki/Fasting#Christianity) | Wikipedia | 2021-05-13
 [Shanidar Cave](https://en.wikipedia.org/wiki/Shanidar_Cave) | Wikipedia | 2021-04-21
