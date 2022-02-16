@@ -8,6 +8,7 @@ This paper has been reviewed by:
 - Kjell Asplund, professor in Medicine at Umeå University
 - Charlotte Höybye, professor in Neuroendocrinology at Karolinska Institute
 - Miriam Kalamian, MS in Human Nutrition, specializing in therapeutic ketogenic diets for cancer
+- Kerstin Brismar, professor in Diabetes and Metabolism at Karolinska University
 
 ## Abstract
 
@@ -91,9 +92,7 @@ While researching ketosis, I found that it can cure a lot of diseases. Harper (2
 
 Bosworth (2019) talks about how ketones are a superior fuel for the brain and how a small supplementation of Medium-Chain Triglyceride (MCT) oil in a non-ketogenic diet, would increase the levels of ketones in the blood and in term lead to a larger brain engagement of all cells. This was most noted in older patients with lower brain function, lower memory function or alzheimers. She also speaks of diseases like, ADHD, parkinssons, epilepsy, depression as a result of chronic brain swelling and inflammation, we can probably assume that this is the axis of illness portrayed in the brain.
 
-I also remember seeing some sources that newborns have a 70 times higher blood-ketone level compared to those in grown humans, maybe meaning that it's used for brain development in early stage in life. That could mean that children respond worse to glucose, and maybe the response for the increased blood-ketone level is that their immune system is not mature enough to deal with glucose induced diseases such as chronic brain swelling or cancer. If this were to be true, it would entail that children are generally in a more vulnerable state.
-
-Why we see cancer in children could be that they are more sensitive to glucose or that bad cell-components are inherited from the mother. Since the immune systems t-cells have a form of register to remember diseases, that would result in a sort of a learning period for the immune system to slowly adapt. And since it takes seven to ten years to replace every cell in one's body, we could assume that the cancer caused in children is probably inherited from the mother.
+I also remember seeing some sources that newborns have a 70 times higher blood-ketone level compared to those in grown humans, maybe meaning that it's used for brain development in early stage in life. Why we see cancer in children could be that bad cell-components are inherited from the mother. Since the immune systems t-cells have a form of register to remember diseases, that would result in a sort of a learning period for the immune system to slowly adapt. And since it takes seven to ten years to replace every cell in one's body, we could assume that the cancer caused in children is probably inherited from the mother.
 
 ### Resistance training and permanent mitochondrial adaptation
 
