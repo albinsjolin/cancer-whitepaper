@@ -8,7 +8,7 @@ This paper has been reviewed by:
 - Kjell Asplund, professor in Medicine at Umeå University
 - Charlotte Höybye, professor in Neuroendocrinology at Karolinska Institute
 - Miriam Kalamian, MS in Human Nutrition, specializing in therapeutic ketogenic diets for cancer
-- Kerstin Brismar, professor in Diabetes and Metabolism at Karolinska University
+- Kerstin Brismar, professor in Diabetes and Metabolism at Karolinska Institute
 
 ## Abstract
 
