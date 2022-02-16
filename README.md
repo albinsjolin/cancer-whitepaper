@@ -1,7 +1,7 @@
 # Theory of winter-fasting and the cure for cancer
 
 This repository explores the theory of winter-fasting and its correlation with cancer prevention.
-Currently viewable on [winter-fasting.com](https://winter-fasting.com/). 
+
 Please submit a Pull Request if you want to add to the paper, we strive for readability and simplicity.
 
 This paper has been reviewed by:
@@ -29,7 +29,7 @@ Bray et al. (2018) investigated some statistics about cancer rates in developed 
 
 ### Cancer and ketogenesis
 
-DeLauer (2019) simplifies the complex cancer growth processes in a video, highlighting that most cancer cells differ from regular cells in how they are converting energy to proliferate. He references a recent study by Hsieh et al. (2019) where they conclude that cell glycolysis is the main cause for cancer growth, but also not a very efficient one, meaning that most cancers responds to high insulin and blood-glucose levels to grow and that cancer use high amounts of glucose to grow a very small amount. Lowering the blood-glucose level was shown to inhibit cancer growth and switching to a ketogenic diet was shown to completely starve the cancer. It was concluded that (most) cancer cells can't convert ketones for growth. Poff et al. (2014) writes in their paper on the survival rate in mice with metastatic cancer, and they mention that cancer cells express an abnormal metabolism characterized by increased glucose consumption, and that, just supplementing ketones, resulted in a greater survival rate.
+DeLauer (2019) simplifies the complex cancer growth processes in a video, highlighting that most cancer cells differ from regular cells in how they are converting energy to proliferate. He references a recent study by Hsieh et al. (2019) where they conclude that cell glycolysis is the main cause for cancer growth, but also not a very efficient one, meaning that most cancers respond to high insulin and blood-glucose levels to grow and that cancer use high amounts of glucose to grow a very small amount. Lowering the blood-glucose level was shown to inhibit cancer growth and switching to a ketogenic diet was shown to completely starve the cancer. It was concluded that (most) cancer cells can't convert ketones for growth. Poff et al. (2014) writes in their paper on the survival rate in mice with metastatic cancer, and they mention that cancer cells express an abnormal metabolism characterized by increased glucose consumption, and that, just supplementing ketones, resulted in a greater survival rate.
 
 This notion is also supported by Gannett (2016) where she explains that she has stopped the growth of a malignant brain cancer, as well as curing polycystic ovarian disease, Hashimoto's thyroiditis and pre-stage breast fibroids cancers, using the ketogenic diet. Berg (2020) explains in his talk that a human body running on ketones is much healthier compared to one that uses glucose as fuel. His main points are that tumors can't grow on ketones and that a ketogenic diet doesn't increase insulin as much as a regular glucose diet would.
 
@@ -87,9 +87,9 @@ As the basis of my theory is that you should enter a ketogenic diet during winte
 
 ### Other diseases
 
-While researching ketosis, I found that it can cure a lot of diseases. Harper (2020) confirms this with his presumed, axis of illness. He explains the axis of illness as a connected model where eating a high frequent and high carbohydrate diet increases insulin resistance which then promotes inflammation and obesity, which then leads to more insulin resistance. This is a bad spiral and it will eventually lead to chronic disease. Harper estimates that 70% of chronic disease, but most notably, cardiovascular disease, cancer, diabetes and alzhimers, could be cured by just breaking this cycle. Now the question at hand, how long should you break the cycle to gain the benefits? Well in Harper's research they see a change in cancer growth and a metabolic change in just six weeks, so if you do this up to six months every winter I would assume that it has some effect. The literature also supports this, Byrne et al. (2017) found that periodic diet breaks work extremely well in a scenario of weight loss without muscle loss and metabolic slowdown.
+While researching ketosis, I found that it can cure a lot of diseases. Harper (2020) confirms this with his presumed, axis of illness. He explains the axis of illness as a connected model where eating a high frequent and high carbohydrate diet increases insulin resistance which then promotes inflammation and obesity, which then leads to more insulin resistance. This is a bad spiral and it will eventually lead to chronic disease. Harper estimates that 70% of chronic disease, but most notably, cardiovascular disease, cancer, diabetes and alzheimers, could be cured by just breaking this cycle. Now the question at hand, how long should you break the cycle to gain the benefits? Well in Harper's research they see a change in cancer growth and a metabolic change in just six weeks, so if you do this up to six months every winter I would assume that it has some effect. The literature also supports this, Byrne et al. (2017) found that periodic diet breaks work extremely well in a scenario of weight loss without muscle loss and metabolic slowdown.
 
-Bosworth (2019) talks about how ketones are a superior fuel for the brain and how a small supplementation of Medium-Chain Triglyceride (MCT) oil in a non-ketogenic diet, would increase the levels of ketones in the blood and in term lead to a larger brain engagement of all cells. This was most noted in older patients with lower brain function, lower memory function or alzhimers. She also speaks of diseases like, ADHD, parkinssons, epilepsy, depression as a result of chronic brain swelling and inflammation, we can probably assume that this is the axis of illness portrayed in the brain.
+Bosworth (2019) talks about how ketones are a superior fuel for the brain and how a small supplementation of Medium-Chain Triglyceride (MCT) oil in a non-ketogenic diet, would increase the levels of ketones in the blood and in term lead to a larger brain engagement of all cells. This was most noted in older patients with lower brain function, lower memory function or alzheimers. She also speaks of diseases like, ADHD, parkinssons, epilepsy, depression as a result of chronic brain swelling and inflammation, we can probably assume that this is the axis of illness portrayed in the brain.
 
 I also remember seeing some sources that newborns have a 70 times higher blood-ketone level compared to those in grown humans, maybe meaning that it's used for brain development in early stage in life. That could mean that children respond worse to glucose, and maybe the response for the increased blood-ketone level is that their immune system is not mature enough to deal with glucose induced diseases such as chronic brain swelling or cancer. If this were to be true, it would entail that children are generally in a more vulnerable state.
 
@@ -107,9 +107,11 @@ One argument against the point I make, that the advent of agriculture is the cau
 of ancient humans. Since cancer is cumulative, early deaths could be an explanation for its lack of appearance. However, the discovery of the Shanidar Cave
 shows four specimens of ancient Neanderthals, which were aged between 30-50. They are dated from around 65000-35000 years ago, well before the advent of agriculture. This gives some idea that ancient humans managed to reach an older age, child mortality might be a cause for the low average age (Wikipedia 2021).
 
-### Ketoacidosis
+### Long term ketosis
 
 A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
+
+The Paleolithic diet is well known in the literature to be a clear replicate of our ancestors' diet. The diet consists of fresh lean meats, fish, shellfish, eggs, nuts, seeds, fruits, berries, vegetables and small amounts of honey. This diet breakdown would be low in carbohydrates except for some sparse times of the year, probably in summer when certain fruits and honey was available. Following this diet, paired with regular exercise and fasting, would leave any individual in ketosis for more or less their entire life. The Paleolithic era lasted from 2.5 million years ago until 9000 years ago, when we switched to an insulin spiking, carbohydrate based diet (Wikipedia 2022).
 
 ### Fasting in rats and humans
 
@@ -164,6 +166,7 @@ Title | Authors | Published
 [Fasting & Autophagy (Part 2) — How to Trigger & Maximize Autophagy](https://josephtramazzo.medium.com/autophagy-fasting-part-2-how-to-trigger-maximize-autophagy-78a137b787b7) | Joseph Tramazzo | 2019-07-25
 [Autophagy](https://en.wikipedia.org/wiki/Autophagy) | Wikipedia | 2021-02-06
 [Fasting](https://en.wikipedia.org/wiki/Fasting#Christianity) | Wikipedia | 2021-05-13
+[Paleolithic](https://en.wikipedia.org/wiki/Paleolithic) | Wikipedia | 2022-02-16
 [Shanidar Cave](https://en.wikipedia.org/wiki/Shanidar_Cave) | Wikipedia | 2021-04-21
 [ALL ABOUT FASTING - Q&A 10 (Longterm fasting vs. intermittent fasting) - Buchinger Wilhelmi](https://www.youtube.com/watch?v=pcXbruZcT_Q) | Buchinger Wilhelmi | 2021-03-12
 [The Ketogenic Diet Alters the Hypoxic Response and Affects Expression of Proteins Associated with Angiogenesis, Invasive Potential and Vascular Permeability in a Mouse Glioma Model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4470583/) | Eric C. Woolf, Kara L. Curley, Qingwei Liu, Gregory H. Turner, Julie A. Charlton, Mark C. Preul and Adrienne C. Scheck | 2015-06-17
