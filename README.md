@@ -106,6 +106,10 @@ One argument against the point I make, that the advent of agriculture is the cau
 of ancient humans. Since cancer is cumulative, early deaths could be an explanation for its lack of appearance. However, the discovery of the Shanidar Cave
 shows four specimens of ancient Neanderthals, which were aged between 30-50. They are dated from around 65000-35000 years ago, well before the advent of agriculture. This gives some idea that ancient humans managed to reach an older age, child mortality might be a cause for the low average age (Wikipedia 2021).
 
+### The “Metabolic Winter” Hypothesis
+
+Cronise et al. (2014) has an interesting hypothesis that food scarcity, longer sleep and cold exposure during winter is a way to remove obesity and cardiometabolic disease. They mention that caloric restriction triggers a network of genes that evolved to protect organisms during times of food scarcity. These genes are shown to down regulate insulin and IGF-1 and release cellular energetics and defense enzymes. These enzymes play a big part in obesity, metabolic syndrome, diabetes, cancer, inflammation, and cardiovascular disease. Moreover, some of these enzymes also promote nonshivering thermogenesis, which would increase internal heat production. Cronise et al. also talk about how increased sleep in cool environments and long nights of winter may work synergistically to promote the conservation of valuable calories.
+
 ### Long term ketosis
 
 A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
@@ -137,6 +141,7 @@ Title | Authors | Published
 [A Periodic Diet that Mimics Fasting Promotes Multi-System Regeneration, Enhanced Cognitive Performance, and Healthspan](https://pubmed.ncbi.nlm.nih.gov/26094889/) | Sebastian Brandhorst, In Young Choi, Min Wei, Chia Wei Cheng, Sargis Sedrakyan, Gerardo Navarrete, Louis Dubeau, Li Peng Yap, Ryan Park, Manlio Vinciguerra, Stefano Di Biase, Hamed Mirzaei, Mario G Mirisola, Patra Childress, Lingyun Ji, Susan Groshen, Fabio Penna, Patrizio Odetti, Laura Perin, Peter S Conti, Yuji Ikeno, Brian K Kennedy, Pinchas Cohen, Todd E Morgan, Tanya B Dorff, Valter D Longo | 2015-07-07
 [Prolonged fasting reduces IGF-1/PKA to promote hematopoietic-stem-cell-based regeneration and reverse immunosuppression](https://pubmed.ncbi.nlm.nih.gov/24905167/) | Chia-Wei Cheng, Gregor B Adams, Laura Perin, Min Wei, Xiaoying Zhou, Ben S Lam, Stefano Da Sacco, Mario Mirisola, David I Quinn, Tanya B Dorff, John J Kopchick, Valter D Longo | 2014-06-05
 [The Effects of Calorie Restriction on Autophagy: Role on Aging Intervention](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6950580/) | Ki Wung Chung and Hae Young Chung | 2019-12-11
+[The “Metabolic Winter” Hypothesis: A Cause of the Current Epidemics of Obesity and Cardiometabolic Disease](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4209489/) | Raymond J. Cronise, David A. Sinclair, Andrew A. Bremer
 [Starving cancer: Dominic D'Agostino at TEDxTampaBay](https://www.youtube.com/watch?v=3fM9o72ykww&ab_channel=TEDxTalks) | Dominic D’Agostino | 2013-12-04
 [Keto and Cancer](https://www.youtube.com/watch?v=kcrdpuSvHmE&ab_channel=Keto-Mojo) | Thomas DeLauer | 2019-12-02
 [Of mice and men](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1369270/) | Lloyd Demetrius | 2005-07-06
