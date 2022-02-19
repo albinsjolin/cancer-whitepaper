@@ -80,11 +80,21 @@ Caloric restriction has long been used as a measure for people to lose weight, b
 
 What got me starting on this theory was a [documentary](https://www.youtube.com/watch?v=lmbY-GrM8pI&t=1s&ab_channel=FallofCivilizations) about how the Greenland vikings came to be, and how they lived. It's described that they lived on an extremely restrictive diet since nothing grew on Greenland. Most of their diet consisted of fish and seal. I got curious about that and came to the conclusion that people would probably have to adapt to their environment, that would then define their diet.
 
+### The Paleolithic diet
+
+The Paleolithic diet is well known in the literature to be a clear replicate of our ancestors' diet. The diet consists of fresh lean meats, fish, shellfish, eggs, nuts, seeds, fruits, berries, vegetables and small amounts of honey. This diet breakdown would be low in carbohydrates except for some sparse times of the year, probably in summer when certain fruits and honey was available. Following this diet, paired with regular exercise and fasting, would leave any individual in ketosis for more or less their entire life. The Paleolithic era lasted from 2.5 million years ago until 9000 years ago, when we switched to an insulin spiking, carbohydrate based diet (Wikipedia 2022).
+
+Sebastian et al. (2002) explains that natural selection has had < 1% of evolutionary time to adapt to our new modern diet from the advent of agriculture. They also measured the difference in acid net load of the Paleolithic diet compared to the western diet and found a mismatch between the nutrient composition of the diets and genetically determined nutritional requirements.
+
 ### The carnivore diet
 
 My idea here was that people who lived in the north, where winters were harsh, would probably not eat any vegetables during the long winters, because nothing grew. We know that people stocked up on food, but what would they do if the food would perish, they then would have to find food local to the environment. What is interesting about this is that carbohydrates are only prevalent in certain vegetables, and a purely carnivore diet contains almost no carbohydrates. Saladino (2020) talks about the carnivore diet and how skeletal analysis of early humans showed that they were almost exclusively carnivores. He also confirms that humans would eat based on their environment, and that the vegetables today looked nothing like they did for the early humans. He mentions that the domestication of popular vegetables have resulted in favoring the least toxic, the highest yielding and highest caloric version of that plant. And that the availability of plants was nowhere near as they are today. My thoughts on this is that humans probably lived mainly on a carnivore based diet, with a small amount of plants and carbohydrates, consumed in a supplementary way. That would explain the quick energy reaction the body has to carbohydrates.
 
 As the basis of my theory is that you should enter a ketogenic diet during winter and also do sessions of fasting, Saladino (2020) brings up a few studies where they observed an decrease in oxidative stress when people entered a carnivore diet. This could be connected to either the benefits of the ketogenic or the carnivore diet, however, I think that they are very similar.
+
+### Long term ketosis
+
+A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
 
 ### Other diseases
 
@@ -109,12 +119,6 @@ shows four specimens of ancient Neanderthals, which were aged between 30-50. The
 ### The “Metabolic Winter” Hypothesis
 
 Cronise et al. (2014) has an interesting hypothesis that food scarcity, longer sleep and cold exposure during winter is a way to remove obesity and cardiometabolic disease. They mention that caloric restriction triggers a network of genes that evolved to protect organisms during times of food scarcity. These genes are shown to down regulate insulin and IGF-1 and release cellular energetics and defense enzymes. These enzymes play a big part in obesity, metabolic syndrome, diabetes, cancer, inflammation, and cardiovascular disease. Moreover, some of these enzymes also promote nonshivering thermogenesis, which would increase internal heat production. Cronise et al. also talk about how increased sleep in cool environments and long nights of winter may work synergistically to promote the conservation of valuable calories.
-
-### Long term ketosis
-
-A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
-
-The Paleolithic diet is well known in the literature to be a clear replicate of our ancestors' diet. The diet consists of fresh lean meats, fish, shellfish, eggs, nuts, seeds, fruits, berries, vegetables and small amounts of honey. This diet breakdown would be low in carbohydrates except for some sparse times of the year, probably in summer when certain fruits and honey was available. Following this diet, paired with regular exercise and fasting, would leave any individual in ketosis for more or less their entire life. The Paleolithic era lasted from 2.5 million years ago until 9000 years ago, when we switched to an insulin spiking, carbohydrate based diet (Wikipedia 2022).
 
 ### Fasting in rats and humans
 
@@ -165,6 +169,7 @@ Title | Authors | Published
 [Ketone supplementation decreases tumor cell viability and prolongs survival of mice with metastatic cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235292/) | AM Poff, C Ari, P Arnold, TN Seyfried and DP D’Agostino | 2014-05-14
 [Cancer](https://ourworldindata.org/cancer) | Max Roser and Hannah Ritchie | 2015-06
 [Dr. Paul Saladino - 'Debunking The Carnivore Diet'](https://www.youtube.com/watch?v=CsPSJ-dXqks&ab_channel=LowCarbDownUnder) | Paul Saladino | 2020-10-08
+[Estimation of the net acid load of the diet of ancestral preagricultural Homo sapiens and their hominid ancestors](https://academic.oup.com/ajcn/article/76/6/1308/4689578) | Anthony Sebastian, Lynda A Frassetto, Deborah E Sellmeyer, Renée L Merriam, R Curtis Morris Jr | 2002-12-01
 [Why We Age and Why We Don't Have To - David Sinclair - Talks at Google](https://www.youtube.com/watch?v=9nXop2lLDa4&ab_channel=TalksatGoogle) | David Sinclair | 2019-10-10
 [Hormone seasonality in medical records suggests circannual endocrine circuits](https://www.pnas.org/content/118/7/e2003926118) | Avichai Tendler, Alon Bar, Netta Mendelsohn-Cohen, Omer Karin, Yael Korem Kohanim, Lior Maimon, Tomer Milo, Moriya Raz, Avi Mayo, Amos Tanay, and Uri Alon | 2021-02-16
 [Fasting & Autophagy (Part 2) — How to Trigger & Maximize Autophagy](https://josephtramazzo.medium.com/autophagy-fasting-part-2-how-to-trigger-maximize-autophagy-78a137b787b7) | Joseph Tramazzo | 2019-07-25
