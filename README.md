@@ -90,11 +90,9 @@ Sebastian et al. (2002) explains that natural selection has had < 1% of evolutio
 
 My idea here was that people who lived in the north, where winters were harsh, would probably not eat any vegetables during the long winters, because nothing grew. We know that people stocked up on food, but what would they do if the food would perish, they then would have to find food local to the environment. What is interesting about this is that carbohydrates are only prevalent in certain vegetables, and a purely carnivore diet contains almost no carbohydrates. Saladino (2020) talks about the carnivore diet and how skeletal analysis of early humans showed that they were almost exclusively carnivores. He also confirms that humans would eat based on their environment, and that the vegetables today looked nothing like they did for the early humans. He mentions that the domestication of popular vegetables have resulted in favoring the least toxic, the highest yielding and highest caloric version of that plant. And that the availability of plants was nowhere near as they are today. My thoughts on this is that humans probably lived mainly on a carnivore based diet, with a small amount of plants and carbohydrates, consumed in a supplementary way. That would explain the quick energy reaction the body has to carbohydrates.
 
+A recent study from Lennerz (2021) shows self reported evidence from people following the carnivore diet for at least 6 months. They concluded that adults consuming a carnivore diet experienced few adverse effects and instead reported health benefits and high satisfaction.
+
 As the basis of my theory is that you should enter a ketogenic diet during winter and also do sessions of fasting, Saladino (2020) brings up a few studies where they observed an decrease in oxidative stress when people entered a carnivore diet. This could be connected to either the benefits of the ketogenic or the carnivore diet, however, I think that they are very similar.
-
-### Long term ketosis
-
-A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
 
 ### Other diseases
 
@@ -103,6 +101,8 @@ While researching ketosis, I found that it can cure a lot of diseases. Harper (2
 Bosworth (2019) talks about how ketones are a superior fuel for the brain and how a small supplementation of Medium-Chain Triglyceride (MCT) oil in a non-ketogenic diet, would increase the levels of ketones in the blood and in term lead to a larger brain engagement of all cells. This was most noted in older patients with lower brain function, lower memory function or alzheimers. She also speaks of diseases like, ADHD, parkinssons, epilepsy, depression as a result of chronic brain swelling and inflammation, we can probably assume that this is the axis of illness portrayed in the brain.
 
 I also remember seeing some sources that newborns have a 70 times higher blood-ketone level compared to those in grown humans, maybe meaning that it's used for brain development in early stage in life. Why we see cancer in children could be that bad cell-components are inherited from the mother. Since the immune systems t-cells have a form of register to remember diseases, that would result in a sort of a learning period for the immune system to slowly adapt. And since it takes seven to ten years to replace every cell in one's body, we could assume that the cancer caused in children is probably inherited from the mother.
+
+Mikhaila Peterson (2022) explains how she had lived with severe arthritis, skin rashes and depression for years. But all diseases went away after a few months following a carnivore diet.
 
 ### Resistance training and permanent mitochondrial adaptation
 
@@ -119,6 +119,12 @@ shows four specimens of ancient Neanderthals, which were aged between 30-50. The
 ### The “Metabolic Winter” Hypothesis
 
 Cronise et al. (2014) has an interesting hypothesis that food scarcity, longer sleep and cold exposure during winter is a way to remove obesity and cardiometabolic disease. They mention that caloric restriction triggers a network of genes that evolved to protect organisms during times of food scarcity. These genes are shown to down regulate insulin and IGF-1 and release cellular energetics and defense enzymes. These enzymes play a big part in obesity, metabolic syndrome, diabetes, cancer, inflammation, and cardiovascular disease. Moreover, some of these enzymes also promote nonshivering thermogenesis, which would increase internal heat production. Cronise et al. also talk about how increased sleep in cool environments and long nights of winter may work synergistically to promote the conservation of valuable calories.
+
+### Long term ketosis
+
+A common misconception about the ketogenic diet is that the elevated ketones produced will eventually lead to ketoacidosis, which is a state where the body can't regulate the blood-ketone level, resulting in the acidification of the blood and death. Ekberg (2019) explains that this is only prevelent in people without the ability to create insulin, specifically in diabetics. And that nutritional ketosis won't lead to ketoacidosis.
+
+Vitamin C is also an interesting observation. Lennerz et al. (2021) found that even with people consuming <10 percent daily recommended intake, no deficiency was ever reported. This could be because of the low antioxidant and vitamin C need during ketosis, compared to a carbohydrate metabolism.
 
 ### Fasting in rats and humans
 
@@ -162,10 +168,12 @@ Title | Authors | Published
 [The Evolving Role of Diet in Prostate Cancer Risk and Progression](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7379157/) | Adeel Kaiser, Christopher Haskins, Mohummad M. Siddiqui, Arif Hussain and Christopher D’Adamo | 2020-06-24
 [Can we eat to starve cancer? - William Li](https://www.youtube.com/watch?v=OjkzfeJz66o&ab_channel=TED-Ed) | William Li | 2014-04-08
 [Fasting: Awakening the Rejuvenation from Within - Valter Longo - TEDxEchoPark](https://www.youtube.com/watch?v=dVArDzYynYc&ab_channel=TEDxTalks) | Valter Longo | 2016-12-05
+[Behavioral Characteristics and Self-Reported Health Status among 2029 Adults Consuming a “Carnivore Diet”](https://academic.oup.com/cdn/article/5/12/nzab133/6415894) | Belinda S Lennerz, Jacob T Mey, Owen H Henn, David S Ludwig | 2021-11-02
 [Starving cancer away](https://www.youtube.com/watch?v=f6rSuJ2YheQ&ab_channel=TEDxTalks) | Sophia Lunt | 2016-04-15
 [Long-term administration of nicotinamide mononucleotide mitigates age-associated physiological decline in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5668137/) | Kathryn F. Mills, Shohei Yoshida, Liana R. Stein, Alessia Grozio, Shunsuke Kubota, Yo Sasaki, Philip Redpath, Marie E. Migaud, Rajendra S. Apte, Koji Uchida, Jun Yoshino and Shin-ichiro Imai | 2017-12-13
 [The role of Sulforaphane in cancer chemoprevention and health benefits: a mini-review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842175/) | Reza Bayat Mokhtari, Narges Baluch, Tina S. Homayouni, Evgeniya Morgatskaya, Sushil Kumar, Parandis Kazemi and Herman Yeger | 2017-07-13
 [When less may be more: calorie restriction and response to cancer therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5442682/) | Ciara H. O’Flanagan, Laura A. Smith, Shannon B. McDonell and Stephen D. Hursting | 2017-05-24
+[TEDx Wouldn't Post This...](https://www.youtube.com/watch?v=0ka9WBEijhk) | Mikhaila Peterson | 2022-02-13
 [Ketone supplementation decreases tumor cell viability and prolongs survival of mice with metastatic cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235292/) | AM Poff, C Ari, P Arnold, TN Seyfried and DP D’Agostino | 2014-05-14
 [Cancer](https://ourworldindata.org/cancer) | Max Roser and Hannah Ritchie | 2015-06
 [Dr. Paul Saladino - 'Debunking The Carnivore Diet'](https://www.youtube.com/watch?v=CsPSJ-dXqks&ab_channel=LowCarbDownUnder) | Paul Saladino | 2020-10-08
