@@ -12,7 +12,7 @@ This paper has been reviewed by:
 
 ## Abstract
 
-The theory is that the majority of people on earth, especially those of descendants from a cold environment, are getting cancer and diseases because they are missing a long term period of fasting, caloric restriction and a ketogenic diet during winter and spring, which was prevalent in their ancestors' lives. The purpose of this paper is to explore the evidence of fasting, caloric restriction and the ketogenic diet and it's correlation to cancer. As well as exploring the advent of agriculture as the cause of cancer. The arguments are analyzed from a logical standpoint using the first principles approach.
+The theory is that the majority of people on earth, especially those of descendants from a cold environment, are getting cancer and diseases because they are missing a long term period of fasting, caloric restriction and a ketogenic diet during winter and spring, which was prevalent in their ancestors' lives. The purpose of this paper is to explore the evidence of fasting, caloric restriction and the ketogenic diet and its correlation to cancer. As well as exploring the advent of agriculture as the cause of cancer. The arguments are analyzed from a logical standpoint using the first principles approach.
 
 ## Credentials
 
@@ -60,7 +60,7 @@ One common misconception is that one has to be in a fasted state for autophagy t
 
 ### Cancer and fasting
 
-In his presentation about therapeutic fasting, Fung (2016) goes into detail about the benefits of fasting and that the modern human is built to withstand repeated episodes where there is no food. He goes over that in a fasted state, the body increases it's energy expenditure and cell oxygen availability over four days of fasting, peaking at day three. He explains fasting as the way the body cleans out all the junk that accumilates.
+In his presentation about therapeutic fasting, Fung (2016) goes into detail about the benefits of fasting and that the modern human is built to withstand repeated episodes where there is no food. He goes over that in a fasted state, the body increases its energy expenditure and cell oxygen availability over four days of fasting, peaking at day three. He explains fasting as the way the body cleans out all the junk that accumulates.
 
 Longo (2016) speaks about fasting and how it affects aging and diseases. He did some research with the IGF-1 receptor and genetically created mice with 50% of their normal size. He found that they would live almost 50% longer compared to normal mice alongside with the finding that they also would never develop any diseases, compared to 10% of the normal mice. He also shows his research from UCLA where they would starve worms, bacteria and yeast, and the outcome was that if you switch them from a lot of nutrients to only water, they would live much longer. Another reference of this is from Cheng et al. (2014) where they found that prolonged fasting reduces IGF-1 and promotes hematopoietic-stem-cell-based regeneration and reverse immunosuppression. Brandhorst (2015) did a study on a periodic fasting diet and found that mice on this diet would have an almost halved cancer rate, and they would experience cancer only in their later stages of life and the majority of tumors was benignant, compared to the control group where they would have it from early stages in life and majority was malignant.
 
