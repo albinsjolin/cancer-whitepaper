@@ -1,4 +1,4 @@
-# Theory of winter-fasting and the cure for cancer
+# Theory of winter-fasting as a cure for cancer
 
 Better reading experience: https://albinsjolin.github.io/open-source-cure-for-cancer/
 
@@ -87,6 +87,8 @@ What got me starting on this theory was a [documentary](https://www.youtube.com/
 The Paleolithic diet is well known in the literature to be a clear replicate of our ancestors' diet. The diet consists of fresh lean meats, fish, shellfish, eggs, nuts, seeds, fruits, berries, vegetables and small amounts of honey (Challa et al. 2021). This diet breakdown would be low in carbohydrates except for some sparse times of the year, probably in summer when certain fruits and honey was available. Following this diet, paired with regular exercise and fasting, would leave any individual in ketosis for more or less their entire life. The Paleolithic era lasted from 2.5 million years ago until 9000 years ago, when we switched to an insulin spiking, carbohydrate based diet (Wikipedia 2022).
 
 Challa et al. (2021) mentions that the Paleolithic diet probably was very dependant on available food in the environment, such as a few Nordic tribes were only consuming fish and other seafood.
+
+In a study with 30 183 participants, Whalen et al. (2017) investigated the impact of the Paleolithic and Mediterranean diet had on all-cause mortality. They found that both diets was associated with lower risk of all-cause, cardiovascular, cancer, and other mortality.
 
 Sebastian et al. (2002) explains that natural selection has had < 1% of evolutionary time to adapt to our new modern diet from the advent of agriculture. They also measured the difference in acid net load of the Paleolithic diet compared to the western diet and found a mismatch between the nutrient composition of the diets and genetically determined nutritional requirements.
 
@@ -197,6 +199,7 @@ Title | Authors | Published
 [Hormone seasonality in medical records suggests circannual endocrine circuits](https://www.pnas.org/content/118/7/e2003926118) | Avichai Tendler, Alon Bar, Netta Mendelsohn-Cohen, Omer Karin, Yael Korem Kohanim, Lior Maimon, Tomer Milo, Moriya Raz, Avi Mayo, Amos Tanay, and Uri Alon | 2021-02-16
 [Fasting & Autophagy (Part 2) — How to Trigger & Maximize Autophagy](https://josephtramazzo.medium.com/autophagy-fasting-part-2-how-to-trigger-maximize-autophagy-78a137b787b7) | Joseph Tramazzo | 2019-07-25
 [Sunlight Has Cardiovascular Benefits Independently of Vitamin D](https://www.karger.com/Article/FullText/441266) | Richard B. Weller | 2016-01-15
+[Paleolithic and Mediterranean Diet Pattern Scores Are Inversely Associated with All-Cause and Cause-Specific Mortality in Adults](https://academic.oup.com/jn/article/147/4/612/4630425) | Kristine A Whalen, Suzanne Judd, Marjorie L McCullough, W Dana Flanders, Terryl J Hartman, Roberd M Bostick | 2017-02-18
 [Autophagy](https://en.wikipedia.org/wiki/Autophagy) | Wikipedia | 2021-02-06
 [Fasting](https://en.wikipedia.org/wiki/Fasting#Christianity) | Wikipedia | 2021-05-13
 [Paleolithic](https://en.wikipedia.org/wiki/Paleolithic) | Wikipedia | 2022-02-16
