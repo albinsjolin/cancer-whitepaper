@@ -52,6 +52,12 @@ Dr Françoise Wilhelmi de Toledo mentions in an interview with Buchinger Wilhelm
 
 There is also fasting incorporated in the major religions. Both Christianity and Islam have their major fasts usually between March and May. Judaism uses fasting more spread out throughout the year (Wikipedia 2021).
 
+### Fasting in Ancient Greece
+
+In Ancient Greece, fasting was meant to prepare athletes’ bodies for physical training ahead of the Olympic Games. It was also a means of developing intelligence and perspicacity; Pythagoras, for instance, fasted for 40 days before his exams at the famous Alexandria School. Pythagoras noticed such an increase in lucidity and physical strength that he later prescribed fasting to his pupils (Alimentarium 2016).
+
+"Everyone has a physician inside him or her; we just have to help it in its work. The natural healing force within each one of us is the greatest force in getting well. Our food should be our medicine. Our medicine should be our food. But to eat when you are sick is to feed your sickness" - Hippocrates (Osborn 2007).
+
 ### Autophagy
 
 Autophagy was first measured by Yoshinori Ohsumi, who won the Nobel Prize in Physiology and Medicine in 2016, where the processes is the natural, regulated mechanism of the cell that removes unnecessary or dysfunctional components. Autophagy is present in different states of life, but most notably after aerobic exercise or fasting (Wikipedia 2021). Berg (2020) mentions in his talk that he recommends patients to follow a consistent aerobic exercise regime for the benefits of autophagy and health. According to Tramazzo (2019) autophagy will trigger about 10 hours faster if the person is already in nutritional ketosis/fat adapted, amplifying its effects.
@@ -108,6 +114,8 @@ Mikhaila Peterson (2022) explains how she had lived with severe arthritis, skin 
 
 I also remember seeing some sources that newborns have a 70 times higher blood-ketone level compared to those in grown humans, maybe meaning that it's used for brain development in early stage in life. Why we see cancer in children could be that bad cell-components are inherited from the mother. Since the immune systems t-cells have a form of register to remember diseases, that would result in a sort of a learning period for the immune system to slowly adapt. And since it takes seven to ten years to replace every cell in one's body, we could assume that the cancer caused in children is probably inherited from the mother.
 
+Osborn (2007) discusses the universal use of fasting. "When an animal, such as a dog or cat, is sick, its natural instinct is to refuse food. When the crisis is over, and the internal healing work has been accomplished, the appetite will return naturally, of its own accord. The human organism also has a fasting instinct, just like that of other animals. Evolutionary adaptation has made our bodies very efficient at storing energy reserves, and drawing upon them when food supplies are scarce. Fasting is as old as mankind, perhaps even older. As far back as historians can see, men have been fasting for one reason or another. It seems to be a universal practice".
+
 ### Resistance training and permanent mitochondrial adaptation
 
 Groennebaek and Vissing (2017) writes in their paper on the function of permanent adaptation of mitochondria in the skeletal musculature as a response to resistance training. They found that resistance training could result in a permanent increase in muscle mitochondria, what is interesting about this is the function it could have had on ancient humans. What we know today is that a person with more mitochondria in their skeletal musculature will respond faster to resistance training and hypertrophy, rather than a person with less mitochondria. And if one can permanently adapt to an increase of mitochondria, and then stop training and losing lean muscle mass, one can then regain lean muscle mass faster at a later stage of life. What evolutionary routine would have caused this adaptation? Could it be that ancient humans would fast during the winter and lose muscle mass, that then would be regained during summer when food was more abundant? I think so.
@@ -156,6 +164,7 @@ From all I've gathered, there should not be any problems for a person to start f
 
 Title | Authors | Published
 :-- | :--: | :--:
+[Voluntary fasting](https://www.alimentarium.org/en/knowledge/voluntary-fasting) | Alimentarium | 2016
 [Fasting boosts sensitivity of human skin melanoma to cisplatin-induced cell death](https://pubmed.ncbi.nlm.nih.gov/27693581/) | Fernanda Antunes, Marco Corazzari, Gustavo Pereira, Gian Maria Fimia, Mauro Piacentini, Soraya Smaili | 2016-09-29
 [Dr. Eric Berg - 'Practical Keto'](https://www.youtube.com/watch?v=tJICCFZLgHY&ab_channel=LowCarbDownUnder) | Eric Berg | 2020-07-23
 [Your Brain on Ketones; Alzheimer's, Memory & MCT](https://www.youtube.com/watch?v=KGFUPSdATuw&ab_channel=Dr.Boz%5BAnnetteBosworth%2CMD%5D) | Annette Bosworth | 2019-04-12
@@ -190,6 +199,7 @@ Title | Authors | Published
 [Long-term administration of nicotinamide mononucleotide mitigates age-associated physiological decline in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5668137/) | Kathryn F. Mills, Shohei Yoshida, Liana R. Stein, Alessia Grozio, Shunsuke Kubota, Yo Sasaki, Philip Redpath, Marie E. Migaud, Rajendra S. Apte, Koji Uchida, Jun Yoshino and Shin-ichiro Imai | 2017-12-13
 [The role of Sulforaphane in cancer chemoprevention and health benefits: a mini-review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5842175/) | Reza Bayat Mokhtari, Narges Baluch, Tina S. Homayouni, Evgeniya Morgatskaya, Sushil Kumar, Parandis Kazemi and Herman Yeger | 2017-07-13
 [When less may be more: calorie restriction and response to cancer therapy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5442682/) | Ciara H. O’Flanagan, Laura A. Smith, Shannon B. McDonell and Stephen D. Hursting | 2017-05-24
+[FASTING AND PURIFICATION](http://www.greekmedicine.net/hygiene/Fasting_and_Purification.html) | David K. Osborn | 2007
 [TEDx Wouldn't Post This...](https://www.youtube.com/watch?v=0ka9WBEijhk) | Mikhaila Peterson | 2022-02-13
 [Ketone supplementation decreases tumor cell viability and prolongs survival of mice with metastatic cancer](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4235292/) | AM Poff, C Ari, P Arnold, TN Seyfried and DP D’Agostino | 2014-05-14
 [Skin tag as a cutaneous marker for impaired carbohydrate metabolism: a case-control study](https://pubmed.ncbi.nlm.nih.gov/17988334/) | Abbas Rasi, Razieh Soltani-Arabshahi, Nasim Shahbazi | 2007-11-02
