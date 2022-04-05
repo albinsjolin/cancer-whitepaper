@@ -26,7 +26,7 @@ Cancer is the second highest cause of deaths, where cardiovascular diseases take
 
 Li (2014) shows some statistics in his Ted talk, where he explains that 40% of women in their 40s and 50s actually have microscopic breast cancers, 50% of men in their 50s and 60s have microscopic prostate cancers, and viritually 100% of us when we reach our 70s will have microscopic thyroid cancers. These will however not develop further because they lack a angiogenisis (blood supply).
 
-Bray et al. (2018) investigated some statistics about cancer rates in developed countries. They found that, on average, every type of cancer in both sexes was 2.5 times more prevalent in society with a high Human Development Index.
+Bray et al. (2018) investigated some statistics about cancer rates in developed countries. They found that, on average, every type of cancer in both sexes was 2.5 times more prevalent in society with a high Human Development Index. Also related to Bogin et al. (2015) correlation with height and IGF-1 levels.
 
 ### Cancer and ketogenesis
 
@@ -178,6 +178,7 @@ Title | Authors | Published
 [Fasting boosts sensitivity of human skin melanoma to cisplatin-induced cell death](https://pubmed.ncbi.nlm.nih.gov/27693581/) | Fernanda Antunes, Marco Corazzari, Gustavo Pereira, Gian Maria Fimia, Mauro Piacentini and Soraya Smaili | 2016-09-29
 [Long-Term Ketogenic Diet Induces Metabolic Acidosis, Anemia, and Oxidative Stress in Healthy Wistar Rats](https://www.hindawi.com/journals/jnme/2020/3642035/) | Aryadi Arsyad, Irfan Idris, Andi A. Rasyid, Rezky A. Usman, Kiki R. Faradillah, Wa Ode U. Latif, Zidni I. Lubis, Aminuddin Aminuddin, Ika Yustisia and Yulia Y. Djabir | 2020-06-29
 [Dr. Eric Berg - 'Practical Keto'](https://www.youtube.com/watch?v=tJICCFZLgHY&ab_channel=LowCarbDownUnder) | Eric Berg | 2020-07-23
+[Sex, Sport, IGF-1 and the Community Effect in Height Hypothesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4454940/) | Barry Bogin, Michael Hermanussen, Werner F. Blum and Christian Aßmann | 2015-05-12
 [Your Brain on Ketones; Alzheimer's, Memory & MCT](https://www.youtube.com/watch?v=KGFUPSdATuw&ab_channel=Dr.Boz%5BAnnetteBosworth%2CMD%5D) | Annette Bosworth | 2019-04-12
 [The Protective Role of Melanin Against UV Damage in Human Skin](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2671032/) | Michaela Brenner and Vincent J. Hearing | 2009-05-01
 [A Periodic Diet that Mimics Fasting Promotes Multi-System Regeneration, Enhanced Cognitive Performance, and Healthspan](https://pubmed.ncbi.nlm.nih.gov/26094889/) | Sebastian Brandhorst, In Young Choi, Min Wei, Chia Wei Cheng, Sargis Sedrakyan, Gerardo Navarrete, Louis Dubeau, Li Peng Yap, Ryan Park, Manlio Vinciguerra, Stefano Di Biase, Hamed Mirzaei, Mario G Mirisola, Patra Childress, Lingyun Ji, Susan Groshen, Fabio Penna, Patrizio Odetti, Laura Perin, Peter S Conti, Yuji Ikeno, Brian K Kennedy, Pinchas Cohen, Todd E Morgan, Tanya B Dorff and Valter D Longo | 2015-07-07
