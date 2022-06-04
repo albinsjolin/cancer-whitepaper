@@ -8,10 +8,6 @@ Please submit a Pull Request if you want to add to the paper, we strive for read
 
 The theory is that the majority of people on earth, especially those of descendants from a cold environment, are getting cancer and diseases because they are missing a long term period of fasting, caloric restriction and a ketogenic diet during winter and spring, which was prevalent in their ancestors' lives. The purpose of this paper is to explore the evidence of fasting, caloric restriction and the ketogenic diet and its correlation to cancer. As well as exploring the advent of agriculture as the cause of cancer. The arguments are analyzed from a logical standpoint using the first principles approach.
 
-## Credentials
-
-I graduated from Uppsala University in 2018 where I majored in Information Systems which can be concluded as the study and analysis of different systems, be it systems in nature, information technology or psychology. I minored in Software Engineering. Since Yoshinori Ohsumi won the Nobel Prize in 2016 on autophagy, I started doing intermittent fasting and advancing to eating one meal a day since 2020-01-01 (with a few breaks here and there). Also I incorporated some longer fasting intervals sporadically. I started eating Paleo since 2021-02. I find it interesting to speculate about evolution and how different genetics affect our day-to-day lives. However, I'm not educated in this subject, I'm only a reader and have tried to speculate a conclusion based on information around the topic.
-
 ## Background theory
 
 ### Statistics
