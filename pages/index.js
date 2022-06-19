@@ -26,9 +26,6 @@ export default function Index() {
       <h2>{t('index:whitepaper_t1')}</h2>
       <p>{t('index:whitepaper_p1')}</p>
 
-      <h2>{t('index:whitepaper_t2')}</h2>
-      <p>{t('index:whitepaper_p2')}</p>
-
       <h2>{t('index:whitepaper_t3')}</h2>
       <h3>{t('index:whitepaper_t4')}</h3>
 
