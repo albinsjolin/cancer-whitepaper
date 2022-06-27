@@ -30,7 +30,7 @@ D’Agostino (2013) explains in his ted talk that he researched the effect on ke
 
 Harper (2020) presents a few interesting findings on the ketogenic diet. He explains a graph called the axis of illness, where the base cause is carbohydrates which leads to insulin resistance which leads to obesity which leads to inflammation. He notes that, just simply switching to a ketogenic diet would eliminate approximately 70% of chronic diseases. He also goes on about cancer and confirms that cancer cells are dependent on glucose for fuel, and he shows an interesting theory where his hypothesis is that glucose and insulin are very strong growth factors in the body and by lowering them, using the ketogenic diet, allows the immune system to catch cancer cells before it spreads. His latest study on ketogenic adaptation explored the effects on women with terminal breast cancer at stage four, where they supplied them with a ketogenic diet alongside chemotherapy. This resulted in extreme cancer regression after six weeks.
 
-Li (2014) explains that all cancers are dependent on mutated angiogenesis for growth. He also demonstrates that cancer cells can be efficiently removed by anti-angiogenesis compounds. Woolf et al. (2015) explores the effect a ketogenic diet has on angiogenesis in mice, they noted that angiogenesis is significantly reduced on a ketogenic diet. Woolf et al. also summerizes the ketogenic diet: 
+Li (2014) explains that all cancers are dependent on mutated angiogenesis for growth. He also demonstrates that cancer cells can be efficiently removed by anti-angiogenesis compounds. Woolf et al. (2015) explores the effect a ketogenic diet has on angiogenesis in mice, they noted that angiogenesis is significantly reduced on a ketogenic diet. Woolf et al. also summerizes the ketogenic diet:
 
 "The mechanisms underlying the anti-tumor benefits of the ketogenic diet, caloric restriction (and intermittent fasting) and other potential metabolic therapies have not yet been fully elucidated; however, preclinical data strongly suggests that metabolic alteration may be a highly effective therapy and may in fact enhance the current standard of care for malignant gliomas."
 
@@ -70,7 +70,7 @@ Li (2014) has a list of anti-angiogenic foods. Some of them are: green tea, stra
 
 ### Cancer and caloric restriction
 
-Caloric restriction has long been used as a measure for people to lose weight, but there are also appliances against disease. O’Flanagan et al. (2017) explored the effects that calorie restriction has on cancer patients. Their specification was to lower the patients' caloric intake by 30%, without the incurrence of malnutrition. Their data suggest that caloric restriction acts against inflammation, angiogenesis, insulin and IGF-1. They also mention that a 30% reduction in calories in mice, displayed an overall -75.5% in tumor incidence. They speculated that caloric restriction combined with a ketogenic diet, would probably increase that number.
+Caloric restriction has long been used as a measure for people to lose weight, but there are also appliances against disease. O’Flanagan et al. (2017) explored the effects that calorie restriction has on cancer patients. Their specification was to lower the patients' caloric intake by 30%, without the incurrence of malnutrition. Their data suggest that caloric restriction acts against inflammation, angiogenesis, insulin and IGF-1. They also mention that a 30% reduction in calories in mice, displayed an overall 75.5% reduction in tumor incidence. They speculated that caloric restriction combined with a ketogenic diet, would probably increase that number.
 
 ## Discussion
 
@@ -88,9 +88,7 @@ In a study with 30 183 participants, Whalen et al. (2017) investigated the impac
 
 Sebastian et al. (2002) explains that natural selection has had < 1% of evolutionary time to adapt to our new modern diet from the advent of agriculture. They also measured the difference in acid net load of the Paleolithic diet compared to the western diet and found a mismatch between the nutrient composition of the diets and genetically determined nutritional requirements.
 
-A relevant citation from Coffey (2001):
-
-"Homo sapiens evolved only about 150000 years ago, and only in the last 10% of that time (10 to 15 thousand years ago) did humans and dogs dramatically alter their diets. This is the time when humans domesticated the dog, bred animals, grew crops, and cooked, processed, and stored meats and vegetables. All current epidemiologic evidence and suggestions for preventing prostate and breast cancer in humans indicates that we should return to the original diets under which our ancestors evolved."
+A relevant citation from Coffey (2001): "Homo sapiens evolved only about 150000 years ago, and only in the last 10% of that time (10 to 15 thousand years ago) did humans and dogs dramatically alter their diets. This is the time when humans domesticated the dog, bred animals, grew crops, and cooked, processed, and stored meats and vegetables. All current epidemiologic evidence and suggestions for preventing prostate and breast cancer in humans indicates that we should return to the original diets under which our ancestors evolved."
 
 ### The carnivore diet
 
