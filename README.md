@@ -1,12 +1,12 @@
 # White paper
 
-This repository explores the theory of winter-fasting and its correlation with cancer prevention. Using an AI model to suggest relevant resources to add.
+This repository explores the theory of winter-fasting and its correlation with cancer prevention. Using an AI model to suggest relevant resources.
 
 Please submit a Pull Request if you want to add to the paper, we strive for readability and simplicity.
 
 ## Abstract
 
-The theory is that the majority of people on earth, especially those of descendants from a cold environment, are getting cancer and diseases because they are missing a long term period of fasting, caloric restriction and a ketogenic diet during winter and spring, which was prevalent in their ancestors' lives. The purpose of this paper is to explore the evidence of fasting, caloric restriction and the ketogenic diet and its correlation to cancer. As well as exploring the advent of agriculture as the cause of cancer. The arguments are analyzed from a logical standpoint using the first principles approach.
+The theory is that the majority of people on earth, especially those of descendants from a cold environment, are getting cancer and diseases because they are missing a long term period of fasting, caloric restriction and a high fat diet during winter and spring, which was prevalent in their ancestors' lives. The purpose of this paper is to explore the evidence of fasting, caloric restriction and a high fat diet and its correlation to cancer. As well as exploring the advent of agriculture as the cause of cancer. The arguments are analyzed from a logical standpoint using the first principles approach.
 
 ## Background theory
 
