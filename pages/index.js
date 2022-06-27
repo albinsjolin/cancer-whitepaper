@@ -145,10 +145,10 @@ export default function Index() {
         <tbody>
           <tr>
             <td>
-              <a href="https://www.alimentarium.org/en/knowledge/voluntary-fasting" rel="nofollow">Voluntary fasting</a>
+              <a href="https://www.alimentarium.org/en/knowledge/voluntary-fasting" rel="nofollow">{t('index:tt1')}</a>
             </td>
-            <td>Alimentarium</td>
-            <td>2016</td>
+            <td>{t('ta1')}</td>
+            <td>{t('tp1')}</td>
           </tr>
           <tr>
             <td>
@@ -256,6 +256,13 @@ export default function Index() {
           </tr>
           <tr>
             <td>
+              <a href="https://www.sciencedirect.com/science/article/abs/pii/S0090429500009389" rel="nofollow">Similarities of prostate and breast cancer: Evolution, diet, and estrogens</a>
+            </td>
+            <td>Donald S. Coffey</td>
+            <td>2001-04-01</td>
+          </tr>
+          <tr>
+            <td>
               <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4209489/" rel="nofollow">The &quot;Metabolic Winter&quot; Hypothesis: A Cause of the Current Epidemics of Obesity and Cardiometabolic Disease</a>
             </td>
             <td>Raymond J. Cronise, David A. Sinclair and Andrew A. Bremer</td>
@@ -316,6 +323,13 @@ export default function Index() {
             </td>
             <td>Bray F, Ferlay J, Soerjomataram I, Siegel RL, Torre LA and Jemal A</td>
             <td>2018</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5530187/" rel="nofollow">Clinicopathological significance of glucose transporter protein-1 overexpression in human osteosarcoma</a>
+            </td>
+            <td>Jian Fan, Jiong Mei, Ming-Zhu Zhang, Feng Yuan, Shan-Zhu Li, Guang-Rong Yu, Long-Hui Chen, Qian Tang and Cory J. Xian</td>
+            <td>2017-06-21</td>
           </tr>
           <tr>
             <td>
@@ -409,17 +423,10 @@ export default function Index() {
           </tr>
           <tr>
             <td>
-              <a href="https://www.youtube.com/watch?v=OjkzfeJz66o&amp;ab_channel=TED-Ed" rel="nofollow">Can we eat to starve cancer? - William Li</a>
+              <a href="https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-021-03122-8" rel="nofollow">Avenues of research in dietary interventions to target tumor metabolism in osteosarcoma</a>
             </td>
-            <td>William Li</td>
-            <td>2014-04-08</td>
-          </tr>
-          <tr>
-            <td>
-              <a href="https://www.youtube.com/watch?v=dVArDzYynYc&amp;ab_channel=TEDxTalks" rel="nofollow">Fasting: Awakening the Rejuvenation from Within - Valter Longo - TEDxEchoPark</a>
-            </td>
-            <td>Valter Longo</td>
-            <td>2016-12-05</td>
+            <td>Taiana Campos Leite, Rebecca Jean Watters, Kurt Richard Weiss and Giuseppe Intini</td>
+            <td>2021-10-29</td>
           </tr>
           <tr>
             <td>
@@ -427,6 +434,27 @@ export default function Index() {
             </td>
             <td>Belinda S Lennerz, Jacob T Mey, Owen H Henn and David S Ludwig</td>
             <td>2021-11-02</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.youtube.com/watch?v=OjkzfeJz66o&amp;ab_channel=TED-Ed" rel="nofollow">Can we eat to starve cancer? - William Li</a>
+            </td>
+            <td>William Li</td>
+            <td>2014-04-08</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0113919" rel="nofollow">Paleopathological Description and Diagnosis of Metastatic Carcinoma in an Early Bronze Age (4588+34 Cal. BP) Forager from the Cis-Baikal Region of Eastern Siberia</a>
+            </td>
+            <td>Angela R. Lieverse, Daniel H. Temple and Vladimir I. Bazaliiskii</td>
+            <td>2014-12-03</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://www.youtube.com/watch?v=dVArDzYynYc&amp;ab_channel=TEDxTalks" rel="nofollow">Fasting: Awakening the Rejuvenation from Within - Valter Longo - TEDxEchoPark</a>
+            </td>
+            <td>Valter Longo</td>
+            <td>2016-12-05</td>
           </tr>
           <tr>
             <td>
@@ -455,6 +483,13 @@ export default function Index() {
             </td>
             <td>Paul J. Moughan</td>
             <td>2021-06-01</td>
+          </tr>
+          <tr>
+            <td>
+              <a href="https://sajs.co.za/article/view/3566" rel="nofollow">Earliest hominin cancer: 1.7-million-year-old osteosarcoma from Swartkrans Cave, South Africa</a>
+            </td>
+            <td>Edward J. Odes, Patrick S. Randolph-Quinney, Maryna Steyn, Zach Throckmorton, Jacqueline S. Smilg,  Bernhard Zipfel, Tanya N. Augustine, Frikkie de Beer, Jakobus W. Hoffman, Ryan D. Franklin and Lee R. Berger</td>
+            <td>2016-03-17</td>
           </tr>
           <tr>
             <td>
@@ -510,9 +545,14 @@ export default function Index() {
               <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5466513/" rel="nofollow">Autophagy in UV damage response</a>
             </td>
             <td>Ashley Sample and Yu-Ying He</td>
+            <td>2017-01-27</td>
+          </tr>
+          <tr>
             <td>
-              2017-01-27
+              <a href="https://pubmed.ncbi.nlm.nih.gov/17918181/" rel="nofollow">Oldest known case of metastasizing prostate carcinoma diagnosed in the skeleton of a 2,700-year-old Scythian king from Arzhan (Siberia, Russia)</a>
             </td>
+            <td>Michael Schultz, Hermann Parzinger, Dmitrij V. Posdnjakov, Tatjana A. Chikisheva and Tyede H. Schmidt-Schultz</td>
+            <td>2007-12-15</td>
           </tr>
           <tr>
             <td>
@@ -621,6 +661,6 @@ export default function Index() {
           </tr>
         </tbody>
       </table>
-    </div>
+    </div >
   )
 }
