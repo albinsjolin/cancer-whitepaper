@@ -9,8 +9,8 @@ body {
 }
 
 a {
-  color: inherit;
-  text-decoration: none;
+  color: #ff7324;
+  text-decoration: underline;
 }
 
 * {
@@ -43,9 +43,22 @@ main {
   padding: 32px;
 }
 
-.link {
-  color: #ff7324;
-  text-decoration: underline;
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+tr {
+  height: 165px;
+  width: 100%;
+  max-width: 260px;
+  background-color: #363643;
+  display: flex;
+  flex-direction: column;
+  color: #f2f2f2;
+
+  margin: 150px 0;
 }
 
 @media (min-width: 768px) {
