@@ -14,7 +14,7 @@ export default function Index() {
   const { t } = useTranslation()
 
   return (
-    <div>
+    <main>
       <Head>
         <title>{t('index:seo_title')}</title>
         <meta name="description" content={t('index:seo_desc')} />
@@ -23,6 +23,7 @@ export default function Index() {
 
       <h1>{t('index:title')}</h1>
       <p>{t('index:intro')}</p>
+      <a className="link" href="https://github.com/albinsjolin/cancer.com.ai" rel="nofollow">{t('index:contribute')}</a>
 
       <h2>{t('index:t1')}</h2>
       <p>{t('index:p1')}</p>
@@ -663,6 +664,6 @@ export default function Index() {
           </tr>
         </tbody>
       </table>
-    </div>
+    </main>
   )
 }

@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://www.cancer.com.ai
-
-# Sitemaps
-Sitemap: https://www.cancer.com.ai/sitemap.xml
