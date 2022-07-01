@@ -370,6 +370,15 @@ export default function Index() {
           </tr>
 
           <tr>
+            <td>{t('index:ta75')}</td>
+            <td>{t('index:tt75')}</td>
+            <td className="flex">
+              <span>{t('index:tp75')}</span>
+              <a href="https://www.youtube.com/watch?v=lmbY-GrM8pI&amp;t=1s&amp;ab_channel=FallofCivilizations" target="_blank" rel="nofollow">{t('index:tj4')}</a>
+            </td>
+          </tr>
+
+          <tr>
             <td>{t('index:ta27')}</td>
             <td>{t('index:tt27')}</td>
             <td className="flex">

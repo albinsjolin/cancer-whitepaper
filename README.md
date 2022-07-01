@@ -74,15 +74,11 @@ Caloric restriction has long been used as a measure for people to lose weight, b
 
 ## Discussion
 
-### My logic
-
-What got me started on this theory was a [documentary](https://www.youtube.com/watch?v=lmbY-GrM8pI&t=1s&ab_channel=FallofCivilizations) about how the Greenland vikings came to be, and how they lived. It's described that they lived on an extremely restrictive diet since nothing grew on Greenland. Most of their diet consisted of fish and seal. I got curious about that and came to the conclusion that people would probably have to adapt to their environment, that would then define their diet.
-
 ### The Paleolithic diet
 
 The Paleolithic diet is well known in the literature to be a clear replicate of our ancestors' diet. The diet consists of fresh lean meats, fish, shellfish, eggs, nuts, seeds, fruits, berries, vegetables and small amounts of honey (Challa et al. 2021). This diet breakdown would be low in carbohydrates except for some sparse times of the year, probably in summer when certain fruits and honey was available. Following this diet, paired with regular exercise and fasting, would leave any individual in ketosis for more or less their entire life. The Paleolithic era lasted from 2.5 million years ago until 9000 years ago, when we switched to an insulin spiking, carbohydrate based diet (Wikipedia 2022).
 
-Challa et al. (2021) mentions that the Paleolithic diet probably was very dependant on available food in the environment, such as a few Nordic tribes were only consuming fish and other seafood.
+Challa et al. (2021) mentions that the Paleolithic diet probably was very dependant on available food in the environment, such as a few Nordic tribes were only consuming fish and other seafood. Fall of Civilizations (2020) explains in a documentary about how the Greenland Vikings came to be, and how they lived. It's described that they lived on an extremely restrictive diet, since nothing grew on Greenland. Most of their diet consisted of fish and seal.
 
 In a study with 30 183 participants, Whalen et al. (2017) investigated the impact of the Paleolithic and Mediterranean diet had on all-cause mortality. They found that both diets was associated with lower risk of all-cause, cardiovascular, cancer, and other mortality.
 
@@ -202,6 +198,7 @@ Title | Authors | Published
 [How To Count Carbs On A Keto Diet To Lose Weight Fast](https://www.youtube.com/watch?v=NW0-m0x1sZ8&ab_channel=Dr.StenEkberg) | Sten Ekberg | 2021-02-19
 [Ketosis vs Ketoacidosis (Keto Diet Dangerous?)](https://www.youtube.com/watch?v=SLFsbQNzqv0&ab_channel=Dr.StenEkberg) | Sten Ekberg | 2019-02-18
 [Comparing more and less developed countries How cancer rates vary across countries at different stages of development](https://www.wcrf.org/dietandcancer/cancer-trends/comparing-more-and-less-developed-countries) | Bray F., Ferlay J., Soerjomataram I., Siegel R. L., Torre L. A. and Jemal A. | 2018
+[4. The Greenland Vikings - Land of the Midnight Sun](https://www.youtube.com/watch?v=lmbY-GrM8pI&t=1s&ab_channel=FallofCivilizations) | Fall of Civilizations | 2020-04-14
 [Clinicopathological significance of glucose transporter protein-1 overexpression in human osteosarcoma](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5530187/) | Jian Fan, Jiong Mei, Ming-Zhu Zhang, Feng Yuan, Shan-Zhu Li, Guang-Rong Yu, Long-Hui Chen, Qian Tang and Cory J. Xian | 2017-06-21
 [What Are the Signs of High and Low Blood Sugar?](https://www.everydayhealth.com/type-2-diabetes/high-and-low-blood-sugar/) | K. Aleisha Fetters and Dr. Philis-Tsimikas | 2020-05-14
 [Dr. Jason Fung - 'Therapeutic Fasting - Solving the Two-Compartment Problem'](https://www.youtube.com/watch?v=tIuj-oMN-Fk&ab_channel=LowCarbDownUnder) | Jason Fung | 2016-03-10
