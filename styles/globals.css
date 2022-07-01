@@ -41,24 +41,42 @@ h3 {
 
 main {
   padding: 32px;
+  max-width: 1000px;
+  margin: 0 auto;
 }
 
 .flex {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: flex-end;
+  flex-grow: 1;
+}
+
+tbody {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
 }
 
 tr {
-  height: 165px;
   width: 100%;
-  max-width: 260px;
   background-color: #363643;
   display: flex;
   flex-direction: column;
   color: #f2f2f2;
+  padding: 13px;
+  border-radius: 10px;
+  font-size: 20px;
+}
 
-  margin: 150px 0;
+tr>td:nth-child(1) {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+tr>td:nth-child(2) {
+  font-size: 16px;
 }
 
 @media (min-width: 768px) {
