@@ -79,6 +79,24 @@ tr>td:nth-child(2) {
   font-size: 16px;
 }
 
+.italic {
+  font-style: italic;
+}
+
+.highlight {
+  color: #ff7324;
+}
+
+.gray, .divider {
+  color: #b2b2b2;
+  opacity: .8;
+  text-decoration: none;
+}
+
+.divider {
+  margin: 0 10px;
+}
+
 @media (min-width: 768px) {
   h1 {
     font-size: 48px;

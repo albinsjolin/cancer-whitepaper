@@ -1,6 +1,12 @@
 import { useTranslation } from 'next-i18next'
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations'
 import Head from 'next/head'
+import { useRouter } from 'next/router'
+
+const langCodes = {
+  en: 'en',
+  sv: 'sv'
+}
 
 export async function getStaticProps({ locale }) {
   return {
@@ -12,6 +18,7 @@ export async function getStaticProps({ locale }) {
 
 export default function Index() {
   const { t } = useTranslation()
+  const { locale } = useRouter()
 
   return (
     <main>
@@ -21,8 +28,12 @@ export default function Index() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <a href={`/${langCodes.en}`} className={`${locale === langCodes.en ? 'highlight' : 'gray'}`}>English</a>
+      <span className="divider">/</span>
+      <a href={`/${langCodes.sv}`} className={`${locale === langCodes.sv ? 'highlight' : 'gray'}`}>Svenska</a>
+
       <h1>{t('index:title')}</h1>
-      <p>{t('index:intro')}</p>
+      <p className="italic">{t('index:intro')}</p>
       <a href="https://github.com/albinsjolin/cancer.com.ai" target="_blank" rel="noreferrer">{t('index:contribute')}</a>
 
       <h2>{t('index:t1')}</h2>
