@@ -81,9 +81,6 @@ export default function Index() {
       <p>{t('index:p23')}</p>
 
       <h2>{t('index:t11')}</h2>
-      <h3>{t('index:t12')}</h3>
-      <p>{t('index:p24')}</p>
-
       <h3>{t('index:t13')}</h3>
       <p>{t('index:p25')}</p>
       <p>{t('index:p26')}</p>
