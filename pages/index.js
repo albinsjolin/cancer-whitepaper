@@ -4,8 +4,10 @@ import Head from 'next/head'
 import { useRouter } from 'next/router'
 
 const langCodes = {
+  ar: 'ar',
   en: 'en',
-  sv: 'sv'
+  sv: 'sv',
+  zh: 'zh'
 }
 
 export async function getStaticProps({ locale }) {
@@ -28,6 +30,10 @@ export default function Index() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <a href={`/${langCodes.ar}`} className={`${locale === langCodes.ar ? 'highlight' : 'gray'}`}>عربي</a>
+      <span className="divider">/</span>
+      <a href={`/${langCodes.zh}`} className={`${locale === langCodes.zh ? 'highlight' : 'gray'}`}>简体中文</a>
+      <span className="divider">/</span>
       <a href={`/${langCodes.en}`} className={`${locale === langCodes.en ? 'highlight' : 'gray'}`}>English</a>
       <span className="divider">/</span>
       <a href={`/${langCodes.sv}`} className={`${locale === langCodes.sv ? 'highlight' : 'gray'}`}>Svenska</a>
