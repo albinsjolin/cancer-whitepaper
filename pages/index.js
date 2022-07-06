@@ -5,7 +5,9 @@ import { useRouter } from 'next/router'
 
 const langCodes = {
   ar: 'ar',
+  de: 'de',
   en: 'en',
+  es: 'es',
   sv: 'sv',
   zh: 'zh'
 }
@@ -30,13 +32,19 @@ export default function Index() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <a href={`/${langCodes.ar}`} className={`${locale === langCodes.ar ? 'highlight' : 'gray'}`}>عربي</a>
-      <span className="divider">/</span>
-      <a href={`/${langCodes.zh}`} className={`${locale === langCodes.zh ? 'highlight' : 'gray'}`}>简体中文</a>
-      <span className="divider">/</span>
-      <a href={`/${langCodes.en}`} className={`${locale === langCodes.en ? 'highlight' : 'gray'}`}>English</a>
-      <span className="divider">/</span>
-      <a href={`/${langCodes.sv}`} className={`${locale === langCodes.sv ? 'highlight' : 'gray'}`}>Svenska</a>
+      <nav>
+        <a href={`/${langCodes.ar}`} className={`${locale === langCodes.ar ? 'highlight' : 'gray'}`}>عربي</a>
+        <span className="divider">/</span>
+        <a href={`/${langCodes.de}`} className={`${locale === langCodes.de ? 'highlight' : 'gray'}`}>Deutsch</a>
+        <span className="divider">/</span>
+        <a href={`/${langCodes.en}`} className={`${locale === langCodes.en ? 'highlight' : 'gray'}`}>English</a>
+        <span className="divider">/</span>
+        <a href={`/${langCodes.es}`} className={`${locale === langCodes.es ? 'highlight' : 'gray'}`}>Español</a>
+        <span className="divider">/</span>
+        <a href={`/${langCodes.sv}`} className={`${locale === langCodes.sv ? 'highlight' : 'gray'}`}>Svenska</a>
+        <span className="divider">/</span>
+        <a href={`/${langCodes.zh}`} className={`${locale === langCodes.zh ? 'highlight' : 'gray'}`}>简体中文</a>
+      </nav>
 
       <h1>{t('index:title')}</h1>
       <p className="italic">{t('index:intro')}</p>

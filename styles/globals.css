@@ -97,6 +97,12 @@ tr>td:nth-child(2) {
   margin: 0 10px;
 }
 
+nav {
+  display: flex;
+  flex-wrap: wrap;
+  line-height: 32px;
+}
+
 @media (min-width: 768px) {
   h1 {
     font-size: 48px;
