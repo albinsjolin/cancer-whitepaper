@@ -64,7 +64,7 @@ export default function Index() {
 
       <nav>
         {langCodes.map(({ code, text }, i) => (
-          <>
+          <div key={`lang-${i}`}>
             <a
               href={`/${code}`}
               className={`${locale === code ? "highlight" : "gray"}`}
@@ -72,7 +72,7 @@ export default function Index() {
               {text}
             </a>
             {i !== langCodes.length - 1 && <span className="divider">/</span>}
-          </>
+          </div>
         ))}
       </nav>
 
