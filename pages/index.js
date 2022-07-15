@@ -3,16 +3,44 @@ import { serverSideTranslations } from "next-i18next/serverSideTranslations";
 import Head from "next/head";
 import { useRouter } from "next/router";
 
-const langCodes = {
-  ar: "ar",
-  de: "de",
-  en: "en",
-  es: "es",
-  fr: "fr",
-  hi: "hi",
-  sv: "sv",
-  zh: "zh",
-};
+const langCodes = [
+  {
+    code: "ar",
+    text: "عربي",
+  },
+  {
+    code: "de",
+    text: "Deutsch",
+  },
+  {
+    code: "en",
+    text: "English",
+  },
+  {
+    code: "es",
+    text: "Español",
+  },
+  {
+    code: "fr",
+    text: "Français",
+  },
+  {
+    code: "hi",
+    text: "हिन्दी",
+  },
+  {
+    code: "it",
+    text: "Italiano",
+  },
+  {
+    code: "sv",
+    text: "Svenska",
+  },
+  {
+    code: "zh",
+    text: "中文",
+  },
+];
 
 export async function getStaticProps({ locale }) {
   return {
@@ -35,61 +63,17 @@ export default function Index() {
       </Head>
 
       <nav>
-        <a
-          href={`/${langCodes.ar}`}
-          className={`${locale === langCodes.ar ? "highlight" : "gray"}`}
-        >
-          عربي
-        </a>
-        <span className="divider">/</span>
-        <a
-          href={`/${langCodes.de}`}
-          className={`${locale === langCodes.de ? "highlight" : "gray"}`}
-        >
-          Deutsch
-        </a>
-        <span className="divider">/</span>
-        <a
-          href={`/${langCodes.en}`}
-          className={`${locale === langCodes.en ? "highlight" : "gray"}`}
-        >
-          English
-        </a>
-        <span className="divider">/</span>
-        <a
-          href={`/${langCodes.es}`}
-          className={`${locale === langCodes.es ? "highlight" : "gray"}`}
-        >
-          Español
-        </a>
-        <span className="divider">/</span>
-        <a
-          href={`/${langCodes.fr}`}
-          className={`${locale === langCodes.fr ? "highlight" : "gray"}`}
-        >
-          Français
-        </a>
-        <span className="divider">/</span>
-        <a
-          href={`/${langCodes.hi}`}
-          className={`${locale === langCodes.hi ? "highlight" : "gray"}`}
-        >
-          हिन्दी
-        </a>
-        <span className="divider">/</span>
-        <a
-          href={`/${langCodes.sv}`}
-          className={`${locale === langCodes.sv ? "highlight" : "gray"}`}
-        >
-          Svenska
-        </a>
-        <span className="divider">/</span>
-        <a
-          href={`/${langCodes.zh}`}
-          className={`${locale === langCodes.zh ? "highlight" : "gray"}`}
-        >
-          简体中文
-        </a>
+        {langCodes.map(({ code, text }, i) => (
+          <>
+            <a
+              href={`/${code}`}
+              className={`${locale === code ? "highlight" : "gray"}`}
+            >
+              {text}
+            </a>
+            {i !== langCodes.length - 1 && <span className="divider">/</span>}
+          </>
+        ))}
       </nav>
 
       <h1>{t("index:title")}</h1>
