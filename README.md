@@ -1,6 +1,6 @@
 # **Canc**er **Whitepap**er
 
-**Thi**s **reposito**ry **explor**es **th**e **theo**ry **o**f **wint**er-**fasti**ng **an**d **it**s **correlati**on **wit**h **canc**er **preventi**on. **Usi**ng **a**n **A**I **mod**el **t**o **sugge**st **releva**nt **resourc**es.  
+**Thi**s **reposito**ry **explor**es **th**e **theo**ry **o**f **wint**er-**fasti**ng **an**d **it**s **correlati**on **wit**h **canc**er **preventi**on.
   
 **Plea**se **subm**it a **Pul**l **Reque**st **i**f **yo**u **wan**t **t**o **ad**d **t**o **th**e **pap**er, **w**e **stri**ve **fo**r **readabili**ty **an**d **simplici**ty.
 
